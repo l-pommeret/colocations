@@ -1,0 +1,1219 @@
+============================================================
+CICERO ANALYSIS (Treebank Filtered)
+Source: Perseus (phi0474) + PROIEL (Atticum, Officiis, etc.)
+============================================================
+
+Total Lemmas: 28377
+
+TOP COLLOCATIONS (PAIRS) by PMI (Min count: 3)
+------------------------------------------------------------
+Collocation                    | PMI        | Count
+------------------------------------------------------------
+('nihilominus', 'minus')       |      11.22 |     3
+('aphractum', 'rhodius')       |      11.22 |     3
+('ingredior', 'curro')         |      11.00 |     4
+('trebulanus', 'pontius')      |       9.75 |     3
+('quemadmodum', 'ad')          |       9.48 |    10
+('quemadmodum', 'modum')       |       9.48 |    10
+('ad', 'modum')                |       9.48 |    10
+('moror', 'triduum')           |       9.48 |     3
+('nummus', 'erogo')            |       9.00 |     3
+('orbis', 'terra')             |       8.90 |     3
+('porticus', 'catulus')        |       8.75 |     3
+('terruncius', 'sumptus')      |       8.69 |     3
+('caedes', 'incendium')        |       8.64 |     5
+('aes', 'alienus')             |       8.40 |     4
+('vi', 'idus')                 |       8.39 |     3
+('vi', 'maias')                |       8.39 |     3
+('deus', 'immortalis')         |       8.37 |     5
+('mensis', 'ianuarius')        |       8.31 |     4
+('ager', 'campanus')           |       8.02 |     4
+('mehercule', 'hercule')       |       7.90 |    29
+('aulius', 'filius')           |       7.90 |     3
+('consulatus', 'graece')       |       7.87 |     3
+('quare', 're')                |       7.76 |    33
+('tertius', 'quartus')         |       7.69 |     3
+('ordo', 'concordia')          |       7.41 |     3
+('tantum', 'quantum')          |       7.40 |     8
+('idus', 'maias')              |       7.39 |     6
+('iii', 'idus')                |       7.39 |     3
+('forensis', 'domesticus')     |       7.35 |     4
+('kal', 'nox')                 |       7.23 |     3
+('tribunatus', 'peto')         |       7.22 |     3
+('laodicea', 'sextilis')       |       7.22 |     4
+('corfinium', 'exercitus')     |       7.22 |     3
+('salus', 'ascribo')           |       7.04 |     4
+('tribunus', 'plebs')          |       7.04 |    30
+('formianus', 'maias')         |       7.04 |     5
+('scelus', 'praetermitto')     |       7.02 |     3
+('forensis', 'labor')          |       7.02 |     3
+('nisi', 'aes')                |       7.02 |     3
+('oratio', 'nomino')           |       7.00 |     3
+('discedo', 'revertor')        |       7.00 |     3
+('pontifex', 'decerno')        |       7.00 |     3
+('ius', 'syngrapha')           |       6.97 |     3
+('syngrapha', 'ius')           |       6.97 |     3
+('parthicus', 'bellum')        |       6.95 |     3
+('tribunatus', 'plebs')        |       6.93 |     3
+('antonius', 'cogo')           |       6.90 |     3
+('copia', 'contraho')          |       6.88 |     3
+('consulatus', 'triumphus')    |       6.87 |     3
+('bibulus', 'caelum')          |       6.83 |     3
+('salaminii', 'pecunia')       |       6.68 |     3
+('quintus', 'aquinum')         |       6.66 |     3
+('mensis', 'quintilis')        |       6.64 |     3
+('salaminii', 'scaptius')      |       6.61 |     3
+('italia', 'cedo')             |       6.59 |     4
+('dignitas', 'tueor')          |       6.50 |     3
+('formianus', 'antium')        |       6.50 |     3
+('pax', 'bellum')              |       6.49 |     4
+('rex', 'appello')             |       6.48 |     3
+('comitium', 'differo')        |       6.48 |     3
+('quomodo', 'modo')            |       6.46 |    18
+('umquam', 'afficio')          |       6.42 |     3
+('cassius', 'familiaris')      |       6.42 |     3
+('brutus', 'salaminii')        |       6.42 |     3
+('maneo', 'profecto')          |       6.40 |     3
+('vehementer', 'gaudeo')       |       6.37 |     5
+('gaius', 'piso')              |       6.33 |     3
+('relinquo', 'monetary.expression') |       6.28 |     3
+('postulo', 'princeps')        |       6.26 |     3
+('committo', 'audeo')          |       6.26 |     3
+('marcus', 'piso')             |       6.24 |     4
+('sophocles', 'greek.expression') |       6.24 |     4
+('num', 'omnino')              |       6.24 |     3
+('usque', 'maias')             |       6.22 |     3
+('civis', 'romanus')           |       6.22 |     3
+('tantus', 'afficio')          |       6.20 |     4
+('fufius', 'tribunus')         |       6.18 |     3
+('quare', 'advolo')            |       6.18 |     3
+('re', 'advolo')               |       6.18 |     3
+('consultum', 'syngrapha')     |       6.18 |     3
+('domitius', 'cohors')         |       6.14 |     4
+('formianus', 'usque')         |       6.13 |     3
+('usque', 'forum')             |       6.13 |     3
+('ibi', 'pomptinus')           |       6.12 |     3
+('tantus', 'calamitas')        |       6.10 |     3
+('longe', 'absum')             |       6.10 |     3
+('pecunia', 'solvo')           |       6.09 |     4
+('affligo', 'umquam')          |       6.05 |     3
+('vere', 'loquor')             |       6.03 |     3
+('moleste', 'fero')            |       6.00 |    10
+('dolor', 'afficio')           |       5.98 |     3
+('cum', 'tum')                 |       5.94 |    25
+('laodicea', 'ibi')            |       5.93 |     3
+('septimus', 'dies')           |       5.92 |     6
+('quintus', 'flaccus')         |       5.92 |     3
+('quintus', 'praeficio')       |       5.92 |     3
+('soror', 'filius')            |       5.90 |     4
+('malo', 'vinco')              |       5.90 |     3
+('frater', 'praeficio')        |       5.86 |     3
+('ambo', 'consul')             |       5.84 |     3
+('greek.expression', 'calvus') |       5.82 |     3
+('greek.expression', 'compitalia') |       5.82 |     3
+('immo', 'vero')               |       5.82 |     3
+('greek.expression', 'desido') |       5.82 |     3
+('greek.expression', 'repentinus') |       5.82 |     3
+('raudusculum', 'greek.expression') |       5.82 |     3
+('alsus', 'greek.expression')  |       5.82 |     3
+('greek.expression', 'triens') |       5.82 |     3
+('greek.expression', 'suppedito') |       5.82 |     3
+('deoleo', 'greek.expression') |       5.82 |     3
+('caesar', 'corfinium')        |       5.81 |     4
+('senatus', 'consultum')       |       5.77 |    33
+('thessalonica', 'statuo')     |       5.76 |     3
+('utilis', 'neque')            |       5.75 |     3
+('pronuntio', 'do')            |       5.74 |     3
+('magistratus', 'tribunus')    |       5.72 |     3
+('lex', 'iulius')              |       5.70 |     3
+('reddo', 'tertius')           |       5.69 |     3
+('edictum', 'bibulus')         |       5.64 |     3
+('iustus', 'causa')            |       5.63 |     3
+('certo', 'scio')              |       5.63 |     8
+('lucius', 'domitius')         |       5.61 |     7
+('quintus', 'frater')          |       5.58 |    35
+('lex', 'abrogo')              |       5.56 |     5
+('curo', 'valeo')              |       5.56 |    16
+('homo', 'nequam')             |       5.53 |     5
+('publius', 'clodius')         |       5.51 |     8
+('exemplum', 'mitto')          |       5.48 |     3
+('senatus', 'frequens')        |       5.45 |     4
+('probo', 'gaudeo')            |       5.41 |     3
+('quantum', 'amo')             |       5.38 |     5
+('multus', 'sollicito')        |       5.38 |     3
+('epistula', 'frequentia')     |       5.38 |     3
+('iam', 'pridem')              |       5.38 |     9
+('campus', 'comitium')         |       5.37 |     3
+('exeo', 'urbs')               |       5.35 |     3
+('plebs', 'caput')             |       5.35 |     4
+('caput', 'clodius')           |       5.30 |     3
+('magnitudo', 'animus')        |       5.30 |     4
+('auctoritas', 'ordo')         |       5.27 |     3
+('piso', 'consul')             |       5.25 |     7
+('amoenus', 'greek.expression') |       5.24 |     4
+('lentulus', 'filius')         |       5.24 |     3
+('rogo', 'hortor')             |       5.22 |     3
+('senatus', 'recito')          |       5.19 |     4
+('tribunus', 'rogatio')        |       5.18 |     3
+('infitior', 'possum')         |       5.18 |     3
+('marcus', 'scaptius')         |       5.18 |     3
+('summus', 'gloria')           |       5.16 |     3
+('do', 'sept')                 |       5.15 |     3
+('capio', 'nescio')            |       5.14 |     3
+('aveo', 'scio')               |       5.14 |     5
+('agrarius', 'lex')            |       5.11 |     3
+('lex', 'agrarius')            |       5.11 |     3
+('summus', 'diligentia')       |       5.07 |     4
+('committo', 'gero')           |       5.07 |     3
+('num', 'novus')               |       5.06 |     3
+('copia', 'praesidium')        |       5.05 |     3
+('bonus', 'improbus')          |       5.04 |     4
+('consul', 'designo')          |       5.03 |     3
+('consilium', 'capio')         |       5.02 |     8
+('cur', 'frater')              |       5.01 |     3
+('lex', 'intercedo')           |       5.00 |     4
+('brevis', 'tempus')           |       4.97 |     6
+('modo', 'desero')             |       4.96 |     3
+('lex', 'promulgo')            |       4.96 |     3
+('placeo', 'thessalonica')     |       4.93 |     3
+('plebs', 'rogatio')           |       4.93 |     3
+('summus', 'periculum')        |       4.91 |     4
+('curio', 'filius')            |       4.90 |     3
+('sustineo', 'eo')             |       4.88 |     3
+('tam', 'acer')                |       4.87 |     3
+('do', 'decembr')              |       4.83 |     4
+('proelior', 'greek.expression') |       4.82 |     3
+('plotius', 'greek.expression') |       4.82 |     3
+('fluctuo', 'greek.expression') |       4.82 |     3
+('multum', 'valeo')            |       4.82 |     3
+('greek.expression', 'intercludo') |       4.82 |     3
+('bene', 'gero')               |       4.81 |     3
+('terentia', 'gratia')         |       4.79 |     3
+('multum', 'debeo')            |       4.78 |     3
+('inquam', 'rex')              |       4.78 |     3
+('inquam', 'emo')              |       4.78 |     3
+('emo', 'inquam')              |       4.78 |     3
+('provincia', 'legatus')       |       4.78 |     3
+('facile', 'patior')           |       4.76 |     3
+('cossinius', 'do')            |       4.74 |     3
+('ante', 'lego')               |       4.72 |     3
+('nego', 'aio')                |       4.72 |     3
+('tribunus', 'contio')         |       4.72 |     3
+('metus', 'frater')            |       4.72 |     3
+('greek.expression', 'istuc')  |       4.72 |     7
+('exitus', 'nunc')             |       4.72 |     4
+('novus', 'accido')            |       4.72 |     3
+('caput', 'lex')               |       4.70 |     4
+('polliceor', 'curo')          |       4.69 |     3
+('solum', 'etiam')             |       4.68 |    15
+('invitus', 'fio')             |       4.68 |     3
+('profecto', 'amo')            |       4.67 |     4
+('spes', 'ostendo')            |       4.67 |     3
+('messalla', 'consul')         |       4.67 |     5
+('caesar', 'capua')            |       4.66 |     3
+('libenter', 'accipio')        |       4.66 |     4
+('lucius', 'filius')           |       4.65 |     4
+('amo', 'quantum')             |       4.65 |     3
+('magnus', 'numerus')          |       4.65 |     3
+('libertus', 'mitto')          |       4.64 |     4
+('contra', 'dico')             |       4.62 |     4
+('secundus', 'bonus')          |       4.62 |     3
+('erogo', 'ne')                |       4.62 |     3
+('caesar', 'miles')            |       4.59 |     4
+('lex', 'tertius')             |       4.58 |     3
+('tam', 'longe')               |       4.58 |     4
+('do', 'novembris')            |       4.57 |     4
+('epirus', 'proficiscor')      |       4.56 |     6
+('proficiscor', 'athenae')     |       4.52 |     3
+('obviam', 'venio')            |       4.51 |     4
+('urbs', 'italia')             |       4.51 |     3
+('bibulus', 'affero')          |       4.50 |     4
+('ut', 'opinor')               |       4.49 |    12
+('bonus', 'popularis')         |       4.47 |     3
+('primum', 'igitur')           |       4.44 |     3
+('quin', 'etiam')              |       4.44 |     4
+('paucus', 'dies')             |       4.42 |     6
+('laenius', 'do')              |       4.42 |     3
+('littera', 'exemplum')        |       4.40 |     3
+('clodius', 'filius')          |       4.40 |     3
+('mentio', 'facio')            |       4.39 |     6
+('postea', 'vero')             |       4.39 |     4
+('exspecto', 'thessalonica')   |       4.39 |     4
+('amo', 'tantum')              |       4.38 |     5
+('tantum', 'amo')              |       4.38 |     5
+('modo', 'verus')              |       4.38 |     3
+('eo', 'epirus')               |       4.38 |     7
+('valde', 'gratus')            |       4.37 |     6
+('iam', 'despero')             |       4.36 |     4
+('multo', 'utor')              |       4.33 |     3
+('huc', 'venio')               |       4.32 |     3
+('inquam', 'scaptius')         |       4.32 |     3
+('religio', 'senatus')         |       4.31 |     4
+('metellus', 'consul')         |       4.31 |     6
+('immo', 'etiam')              |       4.29 |     3
+('brundisium', 'proficiscor')  |       4.29 |     3
+('lex', 'caput')               |       4.28 |     3
+('publius', 'filius')          |       4.27 |     3
+('voluntas', 'saepe')          |       4.27 |     4
+('publicus', 'utilis')         |       4.27 |     3
+('rogatio', 'fero')            |       4.27 |     4
+('dilectus', 'habeo')          |       4.26 |     3
+('clodius', 'populus')         |       4.26 |     3
+('copia', 'locus')             |       4.26 |     5
+('varro', 'pompeius')          |       4.25 |     4
+('lex', 'perfero')             |       4.24 |     4
+('greek.expression', 'murus')  |       4.24 |     4
+('ardeo', 'greek.expression')  |       4.24 |     3
+('caelius', 'greek.expression') |       4.24 |     3
+('athenae', 'venio')           |       4.23 |     8
+('vix', 'satis')               |       4.23 |     3
+('refero', 'sententia')        |       4.23 |     3
+('clodius', 'opera')           |       4.22 |     3
+('vir', 'bonus')               |       4.21 |     8
+('eo', 'aliquando')            |       4.20 |     3
+('tantus', 'amor')             |       4.20 |     3
+('fio', 'praesertim')          |       4.19 |     5
+('voluntas', 'perspicio')      |       4.19 |     3
+('senatus', 'syngrapha')       |       4.19 |     3
+('frater', 'soror')            |       4.18 |     3
+('plebs', 'peto')              |       4.18 |     4
+('memmius', 'caesar')          |       4.17 |     3
+('antium', 'epistula')         |       4.16 |     3
+('proficiscor', 'ibi')         |       4.15 |     3
+('ius', 'dico')                |       4.13 |     9
+('negotium', 'conficio')       |       4.13 |     3
+('causa', 'suscipio')          |       4.11 |     4
+('roma', 'antium')             |       4.11 |     3
+('publicus', 'prosum')         |       4.10 |     4
+('sequor', 'caesar')           |       4.07 |     3
+('cohors', 'caesar')           |       4.07 |     3
+('postridie', 'senatus')       |       4.07 |     4
+('amo', 'debeo')               |       4.06 |     6
+('gymnasium', 'video')         |       4.05 |     3
+('ibi', 'dies')                |       4.05 |     6
+('statim', 'certus')           |       4.05 |     3
+('defendo', 'sic')             |       4.03 |     3
+('usque', 'eo')                |       4.03 |     3
+('res', 'publicus')            |       4.03 |   130
+('multum', 'amo')              |       4.02 |     3
+('consilium', 'repr(eh)endo')  |       4.02 |     4
+('sententia', 'rogo')          |       4.01 |     3
+('rogo', 'sententia')          |       4.01 |     3
+('auctoritas', 'gratia')       |       4.01 |     3
+('gratia', 'refero')           |       4.01 |     3
+('roma', 'maneo')              |       4.01 |     3
+('dissimulo', 'enim')          |       4.00 |     3
+('lucius', 'affero')           |       4.00 |     4
+('senatus', 'decerno')         |       3.99 |     7
+('modo', 'otium')              |       3.99 |     4
+('ita', 'propono')             |       3.98 |     3
+('mensis', 'exspecto')         |       3.97 |     3
+('nego', 'inquam')             |       3.97 |     3
+('postulo', 'alter')           |       3.97 |     3
+('epistula', 'reddo')          |       3.96 |     6
+('umquam', 'tam')              |       3.96 |     5
+('asia', 'eo')                 |       3.95 |     3
+('initium', 'iam')             |       3.94 |     3
+('delecto', 'liber')           |       3.94 |     3
+('do', 'octobris')             |       3.93 |     3
+('diligenter', 'curo')         |       3.92 |     5
+('aio', 'inquam')              |       3.92 |     3
+('scribo', 'alias')            |       3.91 |     3
+('roma', 'idus')               |       3.91 |     3
+('greek.expression', 'pridie') |       3.91 |     4
+('neque', 'lucius')            |       3.91 |     4
+('locus', 'ubi')               |       3.91 |     5
+('senatus', 'religio')         |       3.90 |     3
+('quam', 'bellus')             |       3.89 |     3
+('potius', 'quam')             |       3.89 |    18
+('pridie', 'quam')             |       3.89 |     3
+('summus', 'teneo')            |       3.89 |     3
+('populus', 'plebs')           |       3.89 |     3
+('ne', 'publice')              |       3.88 |     3
+('thessalonica', 'accipio')    |       3.88 |     3
+('tum', 'cum')                 |       3.88 |     6
+('do', 'opera')                |       3.87 |    14
+('tamen', 'consolor')          |       3.87 |     4
+('praetermitto', 'tempus')     |       3.87 |     3
+('nuntius', 'venio')           |       3.86 |     4
+('possum', 'inviso')           |       3.85 |     3
+('verum', 'tamen')             |       3.85 |    13
+('amor', 'summus')             |       3.84 |     3
+('consul', 'rogatio')          |       3.84 |     3
+('quintilis', 'quidem')        |       3.83 |     3
+('valde', 'probo')             |       3.83 |     4
+('opinio', 'roma')             |       3.83 |     3
+('iudex', 'inquam')            |       3.82 |     3
+('inquam', 'iudex')            |       3.82 |     3
+('alter', 'pars')              |       3.82 |     3
+('primus', 'sermo')            |       3.82 |     3
+('domitius', 'consul')         |       3.82 |     5
+('cassius', 'littera')         |       3.81 |     4
+('ceno', 'facio')              |       3.81 |     3
+('utique', 'facio')            |       3.81 |     4
+('ascribo', 'etiam')           |       3.80 |     3
+('primum', 'deinde')           |       3.79 |     3
+('multus', 'coram')            |       3.79 |     3
+('iudex', 'summus')            |       3.79 |     3
+('affero', 'facile')           |       3.79 |     3
+('epirus', 'parum')            |       3.79 |     3
+('consultum', 'consul')        |       3.79 |     6
+('cincius', 'dico')            |       3.79 |     3
+('bonus', 'vir')               |       3.79 |     6
+('arcesso', 'enim')            |       3.78 |     3
+('nolo', 'inquam')             |       3.78 |     3
+('desino', 'tamen')            |       3.78 |     3
+('rogatio', 'senatus')         |       3.77 |     4
+('fero', 'consularis')         |       3.76 |     3
+('sententia', 'primum')        |       3.75 |     3
+('superus', 'dies')            |       3.75 |     4
+('magnus', 'opus')             |       3.75 |    11
+('annus', 'quidem')            |       3.74 |     4
+('dionysius', 'quidem')        |       3.74 |     4
+('urbs', 'relinquo')           |       3.74 |     3
+('memmius', 'pompeius')        |       3.72 |     3
+('totus', 'iter')              |       3.72 |     4
+('animus', 'offendo')          |       3.71 |     3
+('totus', 'perspicio')         |       3.71 |     3
+('praeterea', 'bonus')         |       3.70 |     3
+('confido', 'volo')            |       3.70 |     4
+('familiaris', 'audio')        |       3.70 |     3
+('amicus', 'vir')              |       3.69 |     3
+('tempus', 'etenim')           |       3.69 |     3
+('publicus', 'verso')          |       3.69 |     3
+('defero', 'senatus')          |       3.68 |     4
+('desidero', 'vero')           |       3.68 |     3
+('plane', 'intellego')         |       3.68 |     3
+('multo', 'magis')             |       3.68 |     5
+('ecce', 'littera')            |       3.67 |     4
+('obiurgo', 'ut')              |       3.66 |     3
+('video', 'titus')             |       3.66 |     4
+('intercedo', 'senatus')       |       3.66 |     3
+('greek.expression', 'aedifico') |       3.65 |     4
+('greek.expression', 'supersum') |       3.65 |     4
+('alter', 'plane')             |       3.65 |     3
+('mos', 'magnus')              |       3.65 |     3
+('magnus', 'perturbo')         |       3.65 |     3
+('laodicea', 'venio')          |       3.64 |     5
+('caesar', 'domitius')         |       3.64 |     4
+('tam', 'diu')                 |       3.64 |     4
+('mitto', 'thessalonica')      |       3.64 |     3
+('cura', 'animus')             |       3.63 |     3
+('fio', 'consultum')           |       3.63 |     4
+('prius', 'quam')              |       3.63 |     3
+('valde', 'delecto')           |       3.63 |     3
+('pompeius', 'crassus')        |       3.63 |     4
+('deus', 'bonus')              |       3.62 |     3
+('ne', 'comes')                |       3.62 |     3
+('syngrapha', 'dico')          |       3.62 |     3
+('lex', 'clodius')             |       3.61 |     4
+('molestia', 'nam')            |       3.61 |     3
+('consilium', 'utor')          |       3.60 |     6
+('ita', 'instituo')            |       3.60 |     3
+('dies', 'exeo')               |       3.60 |     3
+('officium', 'dies')           |       3.60 |     3
+('gratus', 'intellego')        |       3.60 |     3
+('frater', 'miser')            |       3.60 |     4
+('explico', 'possum')          |       3.59 |     5
+('tabellarius', 'ago')         |       3.59 |     3
+('ephesus', 'venio')           |       3.58 |     3
+('spons', 'facio')             |       3.58 |     3
+('homo', 'graecus')            |       3.57 |     3
+('do', 'thessalonica')         |       3.57 |     6
+('do', 'posthac')              |       3.57 |     3
+('posthac', 'do')              |       3.57 |     3
+('vix', 'fero')                |       3.57 |     4
+('proficiscor', 'epirus')      |       3.56 |     3
+('lego', 'spes')               |       3.56 |     3
+('lex', 'plebs')               |       3.56 |     5
+('superus', 'littera')         |       3.55 |     6
+('fero', 'consultum')          |       3.54 |     5
+('addo', 'etiam')              |       3.54 |     5
+('diligenter', 'certus')       |       3.54 |     3
+('consilium', 'fides')         |       3.53 |     3
+('quare', 'exspecto')          |       3.51 |     4
+('re', 'exspecto')             |       3.51 |     4
+('quidem', 'fere')             |       3.51 |     3
+('sumptus', 'ne')              |       3.50 |     6
+('greek.expression', 'optimas') |       3.50 |     3
+('assentio', 'greek.expression') |       3.50 |     3
+('ambitus', 'greek.expression') |       3.50 |     3
+('greek.expression', 'faenus') |       3.50 |     3
+('magis', 'caveo')             |       3.50 |     3
+('marcus', 'consul')           |       3.50 |     4
+('nunc', 'exspectatio')        |       3.50 |     3
+('non', 'sanguis')             |       3.49 |     3
+('non', 'inutilis')            |       3.49 |     4
+('non', 'impudens')            |       3.49 |     4
+('non', 'invidus')             |       3.49 |     3
+('hercule', 'amo')             |       3.49 |     3
+('lex', 'tribunus')            |       3.49 |     4
+('numquam', 'tam')             |       3.47 |     4
+('iam', 'diu')                 |       3.47 |     6
+('dico', 'vinco')              |       3.47 |     3
+('offero', 'video')            |       3.47 |     3
+('cito', 'quam')               |       3.46 |     4
+('nego', 'fero')               |       3.46 |     4
+('nam', 'cato')                |       3.45 |     5
+('oro', 'venio')               |       3.45 |     3
+('kal', 'venio')               |       3.45 |     3
+('pompeius', 'defero')         |       3.44 |     3
+('consul', 'oportet')          |       3.44 |     3
+('impedio', 'consul')          |       3.44 |     3
+('mehercule', 'amo')           |       3.44 |     3
+('eo', 'magis')                |       3.43 |    11
+('saluto', 'greek.expression') |       3.43 |     4
+('greek.expression', 'par')    |       3.43 |     4
+('dies', 'forum')              |       3.42 |     3
+('enim', 'despero')            |       3.42 |     3
+('spes', 'salus')              |       3.41 |     3
+('discedo', 'mitto')           |       3.41 |     3
+('quam', 'sollicitus')         |       3.41 |     3
+('satis', 'relinquo')          |       3.41 |     3
+('accipio', 'parvus')          |       3.41 |     3
+('senatus', 'auctoritas')      |       3.40 |     6
+('ne', 'tulliola')             |       3.40 |     3
+('magnus', 'cura')             |       3.40 |     4
+('pono', 'ita')                |       3.40 |     3
+('littera', 'pompeianus')      |       3.40 |     3
+('curo', 'sane')               |       3.39 |     3
+('facio', 'contumelia')        |       3.39 |     3
+('opinor', 'greek.expression') |       3.39 |    10
+('liber', 'relinquo')          |       3.37 |     3
+('provideo', 'possum')         |       3.37 |     3
+('commode', 'possum')          |       3.37 |     6
+('cum', 'ceterus')             |       3.37 |     3
+('malo', 'quam')               |       3.37 |    15
+('redeo', 'causa')             |       3.36 |     3
+('varro', 'ago')               |       3.35 |     3
+('usque', 'dies')              |       3.34 |     3
+('convenio', 'dico')           |       3.33 |     3
+('dico', 'item')               |       3.33 |     3
+('crebro', 'scribo')           |       3.33 |     3
+('lex', 'fero')                |       3.33 |     9
+('littera', 'philotimus')      |       3.33 |     4
+('magnus', 'pono')             |       3.32 |     3
+('venio', 'sextilis')          |       3.32 |     3
+('sententia', 'dico')          |       3.32 |    10
+('tempus', 'confero')          |       3.32 |     3
+('domus', 'inquam')            |       3.32 |     3
+('quam', 'vinco')              |       3.31 |     4
+('enim', 'solus')              |       3.30 |     4
+('brutus', 'causa')            |       3.30 |     3
+('causa', 'brutus')            |       3.30 |     3
+('valde', 'placeo')            |       3.30 |     3
+('multus', 'annus')            |       3.29 |     3
+('pompeius', 'suscipio')       |       3.28 |     3
+('multo', 'quam')              |       3.28 |    11
+('lex', 'sane')                |       3.28 |     3
+('multus', 'verbum')           |       3.27 |     4
+('consilium', 'desum')         |       3.27 |     3
+('probo', 'modus')             |       3.27 |     3
+
+============================================================
+TOP FREQUENT PAIRS (Raw Count)
+------------------------------------------------------------
+('res', 'publicus')            |   130
+('non', 'possum')              |    61
+('scribo', 'non')              |    46
+('non', 'etiam')               |    44
+('ut', 'scribo')               |    42
+('ne', 'quidem')               |    40
+('non', 'modo')                |    39
+('non', 'video')               |    38
+('possum', 'non')              |    37
+('quintus', 'frater')          |    35
+('non', 'enim')                |    35
+('tam', 'quam')                |    34
+('greek.expression', 'enim')   |    33
+('quare', 're')                |    33
+('res', 'scribo')              |    33
+('senatus', 'consultum')       |    33
+('non', 'quam')                |    32
+('tribunus', 'plebs')          |    30
+('non', 'scribo')              |    30
+('littera', 'do')              |    30
+('res', 'non')                 |    30
+('mehercule', 'hercule')       |    29
+('facio', 'non')               |    29
+('non', 'ne')                  |    27
+('non', 'puto')                |    26
+('non', 'res')                 |    26
+('tamen', 'non')               |    26
+('non', 'facio')               |    26
+('greek.expression', 'video')  |    25
+('cum', 'tum')                 |    25
+('littera', 'mitto')           |    25
+('dico', 'non')                |    25
+('greek.expression', 'non')    |    25
+('non', 'habeo')               |    25
+('ne', 'possum')               |    24
+('video', 'quam')              |    24
+('enim', 'non')                |    24
+('volo', 'scribo')             |    24
+('scribo', 'res')              |    24
+('quam', 'res')                |    24
+('non', 'tamen')               |    24
+('modo', 'etiam')              |    23
+('res', 'ago')                 |    23
+('video', 'non')               |    23
+('littera', 'scribo')          |    23
+('do', 'littera')              |    23
+('habeo', 'non')               |    23
+('quam', 'video')              |    22
+('ut', 'non')                  |    22
+('magis', 'quam')              |    22
+('possum', 'res')              |    21
+('quam', 'non')                |    21
+('ne', 'enim')                 |    21
+('facio', 'possum')            |    21
+('possum', 'ne')               |    21
+('do', 'scribo')               |    21
+('non', 'tam')                 |    21
+('scribo', 'video')            |    21
+('ne', 'non')                  |    21
+('non', 'magnus')              |    21
+('res', 'habeo')               |    20
+('possum', 'quam')             |    20
+('video', 'scribo')            |    20
+('etiam', 'non')               |    19
+('video', 'enim')              |    19
+('scribo', 'enim')             |    19
+('scribo', 'do')               |    19
+('scio', 'volo')               |    19
+('ut', 'video')                |    19
+('non', 'greek.expression')    |    18
+('video', 'ne')                |    18
+('scribo', 'volo')             |    18
+('quomodo', 'modo')            |    18
+('enim', 'video')              |    18
+('nam', 'non')                 |    18
+('littera', 'non')             |    18
+('potius', 'quam')             |    18
+('video', 'res')               |    17
+('video', 'possum')            |    17
+('etiam', 'greek.expression')  |    17
+('enim', 'res')                |    17
+('scribo', 'quam')             |    17
+('non', 'dubito')              |    17
+('habeo', 'ne')                |    17
+('scribo', 'etiam')            |    17
+('do', 'non')                  |    17
+('facio', 'scio')              |    17
+('ut', 'greek.expression')     |    17
+('multus', 'scribo')           |    17
+('quam', 'scribo')             |    17
+('non', 'nam')                 |    17
+('greek.expression', 'scribo') |    17
+('possum', 'video')            |    16
+('res', 'video')               |    16
+('homo', 'non')                |    16
+('non', 'venio')               |    16
+('scribo', 'ita')              |    16
+('habeo', 'scribo')            |    16
+('curo', 'valeo')              |    16
+('ago', 'res')                 |    16
+('video', 'multus')            |    16
+('facio', 'volo')              |    16
+('bonus', 'non')               |    16
+('dico', 'greek.expression')   |    16
+('scribo', 'littera')          |    16
+('ago', 'non')                 |    16
+('non', 'volo')                |    16
+('accipio', 'littera')         |    16
+('res', 'ne')                  |    15
+('nunc', 'res')                |    15
+('res', 'etiam')               |    15
+('solum', 'etiam')             |    15
+('res', 'ita')                 |    15
+('res', 'quam')                |    15
+('malo', 'quam')               |    15
+('scio', 'res')                |    15
+('ut', 'volo')                 |    15
+('facio', 'quam')              |    15
+('res', 'senatus')             |    15
+('multus', 'res')              |    15
+('non', 'do')                  |    15
+('scribo', 'greek.expression') |    15
+('volo', 'non')                |    15
+('possum', 'enim')             |    15
+('pompeius', 'res')            |    15
+('scribo', 'venio')            |    15
+('quam', 'volo')               |    14
+('greek.expression', 'quam')   |    14
+('autem', 'non')               |    14
+('scribo', 'possum')           |    14
+('do', 'opera')                |    14
+('multus', 'quam')             |    14
+('scribo', 'habeo')            |    14
+('non', 'ut')                  |    14
+('non', 'solum')               |    14
+('facio', 'video')             |    14
+('enim', 'greek.expression')   |    14
+('quam', 'puto')               |    14
+('res', 'enim')                |    14
+('res', 'ut')                  |    14
+('volo', 'facio')              |    14
+('mitto', 'non')               |    14
+('scribo', 'ne')               |    14
+('tamen', 'volo')              |    13
+('etiam', 'nunc')              |    13
+('verum', 'tamen')             |    13
+('puto', 'non')                |    13
+('video', 'greek.expression')  |    13
+('volo', 'quam')               |    13
+('scribo', 'facio')            |    13
+('possum', 'scribo')           |    13
+('volo', 'ut')                 |    13
+('dico', 'ne')                 |    13
+('modus', 'non')               |    13
+('volo', 'greek.expression')   |    13
+('facio', 'certus')            |    13
+('quam', 'primum')             |    13
+('non', 'satis')               |    13
+('habeo', 'possum')            |    13
+('non', 'homo')                |    13
+('facio', 'res')               |    13
+('ita', 'res')                 |    13
+('greek.expression', 'ut')     |    13
+('fio', 'possum')              |    13
+('epistula', 'do')             |    13
+('ne', 'scio')                 |    13
+('ne', 'do')                   |    13
+('non', 'licet')               |    13
+('ut', 'spero')                |    13
+('res', 'pompeius')            |    13
+('non', 'dico')                |    13
+('possum', 'ago')              |    13
+('alter', 'non')               |    13
+('roma', 'littera')            |    13
+('ne', 'scribo')               |    13
+('greek.expression', 'dico')   |    13
+('possum', 'greek.expression') |    13
+('greek.expression', 'etiam')  |    13
+('facio', 'ago')               |    13
+('iter', 'facio')              |    13
+('ne', 'dico')                 |    12
+('res', 'facio')               |    12
+('ne', 'res')                  |    12
+('volo', 'possum')             |    12
+('volo', 'puto')               |    12
+('facio', 'scribo')            |    12
+('non', 'autem')               |    12
+('quam', 'littera')            |    12
+('volo', 'scio')               |    12
+('ita', 'non')                 |    12
+('quaero', 'greek.expression') |    12
+('res', 'magnus')              |    12
+('consilium', 'non')           |    12
+('non', 'credo')               |    12
+('ut', 'opinor')               |    12
+('nunc', 'non')                |    12
+('littera', 'exspecto')        |    12
+('quidem', 'possum')           |    12
+('littera', 'roma')            |    12
+('consilium', 'res')           |    12
+('non', 'fero')                |    12
+('non', 'multus')              |    12
+('nunc', 'scribo')             |    12
+('dico', 'enim')               |    12
+('non', 'mehercule')           |    12
+('venio', 'littera')           |    12
+('dies', 'venio')              |    12
+('non', 'bonus')               |    12
+('tamen', 'scribo')            |    12
+('epistula', 'scribo')         |    12
+('quam', 'possum')             |    12
+('eo', 'non')                  |    12
+('res', 'volo')                |    12
+('quam', 'etiam')              |    11
+('iam', 'res')                 |    11
+('res', 'iam')                 |    11
+('res', 'dico')                |    11
+('etiam', 'quam')              |    11
+('tempus', 'res')              |    11
+('enim', 'quam')               |    11
+('mitto', 'scribo')            |    11
+('ita', 'volo')                |    11
+('do', 'dies')                 |    11
+('ne', 'quam')                 |    11
+('volo', 'res')                |    11
+('ut', 'facio')                |    11
+('habeo', 'greek.expression')  |    11
+('greek.expression', 'possum') |    11
+('non', 'ita')                 |    11
+('magnus', 'opus')             |    11
+('res', 'causa')               |    11
+('non', 'itaque')              |    11
+('senatus', 'non')             |    11
+('fero', 'non')                |    11
+('multo', 'quam')              |    11
+('ne', 'video')                |    11
+('possum', 'dico')             |    11
+('greek.expression', 'facio')  |    11
+('non', 'parum')               |    11
+('dies', 'non')                |    11
+('quam', 'facio')              |    11
+('autem', 'res')               |    11
+('video', 'autem')             |    11
+('ita', 'facio')               |    11
+('ago', 'video')               |    11
+('modo', 'non')                |    11
+('non', 'quidem')              |    11
+('publicus', 'scribo')         |    11
+('non', 'hercule')             |    11
+('quam', 'tamen')              |    11
+('non', 'scio')                |    11
+('greek.expression', 'scio')   |    11
+('eo', 'magis')                |    11
+('video', 'puto')              |    11
+('facio', 'puto')              |    11
+('ago', 'scio')                |    11
+('scribo', 'tamen')            |    11
+('res', 'consilium')           |    10
+('res', 'tamen')               |    10
+('publicus', 'video')          |    10
+('magnus', 'res')              |    10
+('ne', 'tamen')                |    10
+('nunc', 'vero')               |    10
+('fero', 'possum')             |    10
+('puto', 'res')                |    10
+('homo', 'possum')             |    10
+('non', 'nunc')                |    10
+('video', 'homo')              |    10
+('nam', 'scribo')              |    10
+('facio', 'venio')             |    10
+('ut', 'res')                  |    10
+('ne', 'habeo')                |    10
+('amo', 'non')                 |    10
+('venio', 'res')               |    10
+('quemadmodum', 'ad')          |    10
+('quemadmodum', 'modum')       |    10
+('ad', 'modum')                |    10
+('littera', 'affero')          |    10
+('quam', 'roma')               |    10
+('publicus', 'non')            |    10
+('greek.expression', 'nam')    |    10
+('nam', 'ut')                  |    10
+('sententia', 'dico')          |    10
+('dico', 'res')                |    10
+('do', 'ne')                   |    10
+('opinor', 'greek.expression') |    10
+('etiam', 'volo')              |    10
+('etiam', 'ne')                |    10
+('non', 'amo')                 |    10
+('tamen', 'ago')               |    10
+('res', 'autem')               |    10
+('non', 'animus')              |    10
+('video', 'ago')               |    10
+('ne', 'nam')                  |    10
+('aio', 'greek.expression')    |    10
+('moleste', 'fero')            |    10
+('facio', 'ut')                |    10
+('puto', 'volo')               |    10
+('do', 'res')                  |    10
+('greek.expression', 'volo')   |    10
+('scio', 'ago')                |    10
+('greek.expression', 'tamen')  |    10
+('tamen', 'greek.expression')  |    10
+('ut', 'puto')                 |    10
+('non', 'tempus')              |    10
+('iam', 'non')                 |    10
+('littera', 'dies')            |    10
+('enim', 'scribo')             |    10
+('senatus', 'facio')           |    10
+('puto', 'greek.expression')   |    10
+('senatus', 'consul')          |     9
+('iam', 'pridem')              |     9
+('publicus', 'facio')          |     9
+('ago', 'tamen')               |     9
+('tamen', 'possum')            |     9
+('do', 'eo')                   |     9
+('res', 'nunc')                |     9
+('possum', 'ita')              |     9
+('puto', 'scribo')             |     9
+('amicus', 'non')              |     9
+('magis', 'video')             |     9
+('video', 'volo')              |     9
+('greek.expression', 'amo')    |     9
+('magnus', 'video')            |     9
+('curo', 'scio')               |     9
+('exspecto', 'littera')        |     9
+('saepe', 'scribo')            |     9
+('venio', 'scribo')            |     9
+('scribo', 'puto')             |     9
+('possum', 'nam')              |     9
+('littera', 'ne')              |     9
+('possum', 'autem')            |     9
+('littera', 'quam')            |     9
+('dies', 'do')                 |     9
+('puto', 'littera')            |     9
+('scio', 'scribo')             |     9
+('scribo', 'iam')              |     9
+('dico', 'possum')             |     9
+('do', 'quam')                 |     9
+('quam', 'habeo')              |     9
+('quam', 'mitto')              |     9
+('video', 'nam')               |     9
+('non', 'placeo')              |     9
+('non', 'consilium')           |     9
+('possum', 'causa')            |     9
+('iam', 'greek.expression')    |     9
+('lex', 'fero')                |     9
+('video', 'scio')              |     9
+('facio', 'tamen')             |     9
+('greek.expression', 'res')    |     9
+('lex', 'non')                 |     9
+('ne', 'greek.expression')     |     9
+('littera', 'res')             |     9
+('quidem', 'res')              |     9
+('non', 'adsum')               |     9
+('causa', 'non')               |     9
+('tamen', 'video')             |     9
+('res', 'fero')                |     9
+('sic', 'enim')                |     9
+('scio', 'non')                |     9
+('sic', 'habeo')               |     9
+('tempus', 'non')              |     9
+('iam', 'scribo')              |     9
+('publicus', 'quam')           |     9
+('senatus', 'ne')              |     9
+('non', 'audeo')               |     9
+('habeo', 'quam')              |     9
+('res', 'gero')                |     9
+('multus', 'greek.expression') |     9
+('venio', 'non')               |     9
+('nunc', 'greek.expression')   |     9
+('res', 'littera')             |     9
+('habeo', 'tamen')             |     9
+('scio', 'etiam')              |     9
+('epistula', 'non')            |     9
+('quidem', 'greek.expression') |     9
+('quidem', 'non')              |     9
+('enim', 'habeo')              |     9
+('dico', 'volo')               |     9
+('dies', 'littera')            |     9
+('dies', 'scribo')             |     9
+('do', 'accipio')              |     9
+('caesar', 'littera')          |     9
+('ius', 'dico')                |     9
+('causa', 'possum')            |     9
+('iam', 'video')               |     8
+('video', 'tamen')             |     8
+('possum', 'tamen')            |     8
+('habeo', 'video')             |     8
+('etiam', 'possum')            |     8
+('publicus', 'res')            |     8
+('etiam', 'res')               |     8
+('nunc', 'quam')               |     8
+('possum', 'venio')            |     8
+('possum', 'praesertim')       |     8
+('non', 'arbitror')            |     8
+('res', 'accipio')             |     8
+('tempus', 'video')            |     8
+('non', 'verum')               |     8
+('habeo', 'volo')              |     8
+('scribo', 'curo')             |     8
+('etiam', 'scribo')            |     8
+('enim', 'iam')                |     8
+('littera', 'ut')              |     8
+('volo', 'littera')            |     8
+('certus', 'facio')            |     8
+('facio', 'do')                |     8
+('puto', 'scio')               |     8
+('scribo', 'magnus')           |     8
+('magnus', 'habeo')            |     8
+('non', 'committo')            |     8
+('habeo', 'scio')              |     8
+('volo', 'habeo')              |     8
+('habeo', 'ut')                |     8
+('scribo', 'intellego')        |     8
+('vir', 'bonus')               |     8
+('scribo', 'exspecto')         |     8
+('greek.expression', 'tam')    |     8
+('publius', 'clodius')         |     8
+('non', 'senatus')             |     8
+('modus', 'ne')                |     8
+('bonus', 'quam')              |     8
+('fio', 'non')                 |     8
+('praesertim', 'non')          |     8
+('habeo', 'do')                |     8
+('littera', 'etiam')           |     8
+('mitto', 'greek.expression')  |     8
+('greek.expression', 'habeo')  |     8
+('epistula', 'res')            |     8
+('tantum', 'quantum')          |     8
+('quam', 'animus')             |     8
+('video', 'littera')           |     8
+('senatus', 'res')             |     8
+('enim', 'dico')               |     8
+('ut', 'littera')              |     8
+('dico', 'scribo')             |     8
+('puto', 'possum')             |     8
+('volo', 'iam')                |     8
+('quam', 'venio')              |     8
+('quam', 'nunc')               |     8
+('greek.expression', 'homo')   |     8
+('etiam', 'enim')              |     8
+('committo', 'non')            |     8
+('possum', 'facio')            |     8
+('enim', 'volo')               |     8
+('consul', 'non')              |     8
+('scribo', 'scio')             |     8
+('res', 'puto')                |     8
+('pompeius', 'non')            |     8
+('autem', 'scribo')            |     8
+('scribo', 'modo')             |     8
+('ne', 'ut')                   |     8
+('greek.expression', 'vero')   |     8
+('enim', 'possum')             |     8
+('habeo', 'res')               |     8
+('non', 'quaero')              |     8
+('possum', 'etiam')            |     8
+('enim', 'puto')               |     8
+('enim', 'ne')                 |     8
+('puto', 'ne')                 |     8
+('scribo', 'epistula')         |     8
+('caesar', 'pompeius')         |     8
+('fio', 'ne')                  |     8
+('consul', 'facio')            |     8
+('puto', 'facio')              |     8
+('non', 'accipio')             |     8
+('greek.expression', 'ne')     |     8
+('pompeius', 'scribo')         |     8
+('scribo', 'roma')             |     8
+('enim', 'littera')            |     8
+('enim', 'epistula')           |     8
+('salus', 'greek.expression')  |     8
+('non', 'roma')                |     8
+('roma', 'non')                |     8
+('do', 'greek.expression')     |     8
+('greek.expression', 'quidem') |     8
+('littera', 'ago')             |     8
+('non', 'iam')                 |     8
+('video', 'ut')                |     8
+('epirus', 'non')              |     8
+('nescio', 'greek.expression') |     8
+('nam', 'greek.expression')    |     8
+('neque', 'non')               |     8
+('loquor', 'res')              |     8
+('multus', 'non')              |     8
+('certo', 'scio')              |     8
+('dico', 'facio')              |     8
+('volo', 'dico')               |     8
+('facio', 'enim')              |     8
+('consilium', 'capio')         |     8
+('spes', 'non')                |     8
+('athenae', 'venio')           |     8
+('tamen', 'habeo')             |     8
+('spes', 'video')              |     8
+('ago', 'nunc')                |     8
+('scribo', 'ago')              |     8
+('littera', 'spes')            |     8
+('littera', 'volo')            |     8
+('volo', 'enim')               |     8
+('dies', 'facio')              |     8
+
+============================================================
+TOP TRIGRAMS
+------------------------------------------------------------
+('quemadmodum', 'ad', 'modum')                |    10
+('video', 'res', 'publicus')                  |     4
+('ut', 'opinor', 'greek.expression')          |     4
+('res', 'sic', 'habeo')                       |     4
+('res', 'publicus', 'causa')                  |     4
+('ut', 'scribo', 'ita')                       |     4
+('senatus', 'consultum', 'facio')             |     4
+('senatus', 'consultum', 'consul')            |     4
+('non', 'mehercule', 'hercule')               |     4
+('neque', 'res', 'publicus')                  |     4
+('res', 'publicus', 'habeo')                  |     3
+('quam', 'primum', 'venio')                   |     3
+('facio', 'senatus', 'consultum')             |     3
+('res', 'publicus', 'nunc')                   |     3
+('res', 'publicus', 'scribo')                 |     3
+('tribunatus', 'plebs', 'peto')               |     3
+('magnus', 'res', 'publicus')                 |     3
+('res', 'publicus', 'quam')                   |     3
+('ut', 'antea', 'scribo')                     |     3
+('res', 'publicus', 'ne')                     |     3
+('quare', 're', 'advolo')                     |     3
+('fio', 'senatus', 'consultum')               |     3
+('curo', 'valeo', 'do')                       |     3
+('res', 'publicus', 'non')                    |     3
+('habeo', 'mehercule', 'hercule')             |     3
+('vi', 'idus', 'maias')                       |     3
+('do', 'non', 'accipio')                      |     3
+('commoveo', 'res', 'publicus')               |     2
+('consul', 'res', 'publicus')                 |     2
+('intellego', 'res', 'publicus')              |     2
+('res', 'publicus', 'video')                  |     2
+('greek.expression', 'video', 'enim')         |     2
+('gratia', 'non', 'modo')                     |     2
+('video', 'quare', 're')                      |     2
+('mensis', 'ianuarius', 'exspecto')           |     2
+('quare', 're', 'volo')                       |     2
+('volo', 'ut', 'scribo')                      |     2
+('quare', 're', 'non')                        |     2
+('certus', 'facio', 'do')                     |     2
+('facio', 'do', 'littera')                    |     2
+('habeo', 'scribo', 'etiam')                  |     2
+('ut', 'scribo', 'curo')                      |     2
+('locus', 'non', 'ignoro')                    |     2
+('facio', 'quam', 'diligenter')               |     2
+('quam', 'diligenter', 'certus')              |     2
+('do', 'opera', 'quam')                       |     2
+('opera', 'quam', 'primum')                   |     2
+('quam', 'primum', 'mitto')                   |     2
+('scio', 'quomodo', 'modo')                   |     2
+('postea', 'vero', 'quam')                    |     2
+('tribunus', 'plebs', 'fero')                 |     2
+('senatus', 'consultum', 'fero')              |     2
+('res', 'publicus', 'status')                 |     2
+('quamobrem', 'ob', 'rem')                    |     2
+('quare', 're', 'ut')                         |     2
+('scribo', 'non', 'habeo')                    |     2
+('ne', 'satis', 'scio')                       |     2
+('multus', 'etiam', 'mitto')                  |     2
+('nam', 'quintus', 'frater')                  |     2
+('scribo', 'vereor', 'enim')                  |     2
+('amans', 'consilium', 'sermo')               |     2
+('credo', 'enim', 'audio')                    |     2
+('explico', 'non', 'possum')                  |     2
+('possum', 'quare', 're')                     |     2
+('quare', 're', 'exspecto')                   |     2
+('herennius', 'tribunus', 'plebs')            |     2
+('puto', 'nunc', 'video')                     |     2
+('res', 'publicus', 'retineo')                |     2
+('autem', 'res', 'sic')                       |     2
+('nescio', 'res', 'publicus')                 |     2
+('etiam', 'res', 'publicus')                  |     2
+('res', 'publicus', 'puto')                   |     2
+('quam', 'res', 'publicus')                   |     2
+('commentarium', 'consulatus', 'graece')      |     2
+('greek.expression', 'non', 'modo')           |     2
+('scribo', 'antea', 'non')                    |     2
+('non', 'magnus', 'opus')                     |     2
+('liber', 'lucius', 'cossinius')              |     2
+('tribunus', 'plebs', 'fio')                  |     2
+('publicus', 'quin', 'etiam')                 |     2
+('res', 'publicus', 'defendo')                |     2
+('multus', 'scribo', 'greek.expression')      |     2
+('fio', 'possum', 'ne')                       |     2
+('ut', 'soleo', 'diligenter')                 |     2
+('immo', 'vero', 'etiam')                     |     2
+('puto', 'facio', 'scio')                     |     2
+('dies', 'roma', 'exeo')                      |     2
+('bonus', 'quam', 'puto')                     |     2
+('orbis', 'res', 'publicus')                  |     2
+('res', 'publicus', 'converto')               |     2
+('lex', 'iunius', 'licinius')                 |     2
+('fero', 'non', 'possum')                     |     2
+('non', 'possum', 'primus')                   |     2
+('haud', 'paulo', 'bonus')                    |     2
+('paulo', 'bonus', 'quam')                    |     2
+('ita', 'video', 'non')                       |     2
+('affero', 'quemadmodum', 'ad')               |     2
+('scribo', 'animadverto', 'volo')             |     2
+('greek.expression', 'vere', 'loquor')        |     2
+('quam', 'volo', 'roma')                      |     2
+('re', 'advolo', 'expedio')                   |     2
+('primum', 'igitur', 'scio')                  |     2
+('amo', 'tantum', 'quantum')                  |     2
+('tantum', 'quantum', 'profecto')             |     2
+('quantum', 'profecto', 'amo')                |     2
+('sic', 'habeo', 'ne')                        |     2
+('multus', 'verbum', 'ago')                   |     2
+('certus', 'habeo', 'nisi')                   |     2
+('do', 'quare', 're')                         |     2
+('pompeius', 'scribo', 'mitto')               |     2
+('scribo', 'mitto', 'do')                     |     2
+('ut', 'placeo', 'thessalonica')              |     2
+('multus', 'facio', 'quam')                   |     2
+('parum', 'multus', 'scribo')                 |     2
+('ut', 'adhuc', 'facio')                      |     2
+('puto', 'quomodo', 'modo')                   |     2
+('quam', 'ceterus', 'puto')                   |     2
+('etiam', 'nunc', 'locus')                    |     2
+('parum', 'moleste', 'fero')                  |     2
+('ut', 'scribo', 'non')                       |     2
+('cum', 'spons', 'tum')                       |     2
+('senatus', 'consultum', 'intercedo')         |     2
+('omnino', 'non', 'possum')                   |     2
+('cum', 'res', 'tum')                         |     2
+('epistula', 'accipio', 'do')                 |     2
+('promulgo', 'abrogo', 'derogo')              |     2
+('abrogo', 'derogo', 'obrogo')                |     2
+('novus', 'tribunus', 'plebs')                |     2
+('res', 'quemadmodum', 'ad')                  |     2
+('littera', 'roma', 'affero')                 |     2
+('senatus', 'consultum', 'sententia')         |     2
+('fero', 'senatus', 'consultum')              |     2
+('pompeius', 'volo', 'dico')                  |     2
+('secundus', 'fluxus', 'advorsus')            |     2
+('fluxus', 'advorsus', 'bonus')               |     2
+('littera', 'non', 'committo')                |     2
+('do', 'littera', 'itaque')                   |     2
+('ne', 'populus', 'iussus')                   |     2
+('postulo', 'non', 'concedo')                 |     2
+('video', 'non', 'dubito')                    |     2
+('greek.expression', 'tamen', 'habeo')        |     2
+('non', 'possum', 'praesertim')               |     2
+('non', 'moleste', 'fero')                    |     2
+('magnus', 'opus', 'commoveo')                |     2
+('habeo', 'res', 'publicus')                  |     2
+('mehercule', 'hercule', 'valde')             |     2
+('non', 'secus', 'atque')                     |     2
+('neque', 'vero', 'nunc')                     |     2
+('iam', 'proficiscor', 'tamen')               |     2
+('scribo', 'potius', 'quam')                  |     2
+('ago', 'ubi', 'tempus')                      |     2
+('ergo', 'quoque', 'hactenus')                |     2
+('quare', 're', 'scio')                       |     2
+('magnus', 'gratia', 'pono')                  |     2
+('non', 'enim', 'dubito')                     |     2
+('facio', 'multus', 'scribo')                 |     2
+('non', 'habeo', 'satis')                     |     2
+('ut', 'ante', 'scribo')                      |     2
+('cum', 'ceterus', 'tum')                     |     2
+('paucus', 'dies', 'habeo')                   |     2
+('scribo', 'do', 'non')                       |     2
+('salus', 'ascribo', 'gratus')                |     2
+('orodes', 'rex', 'parthus')                  |     2
+('rex', 'parthus', 'filius')                  |     2
+('civis', 'romanus', 'frumentum')             |     2
+('marcus', 'scaptius', 'publius')             |     2
+('scaptius', 'publius', 'matinius')           |     2
+('lex', 'gabinius', 'veto')                   |     2
+('gabinius', 'veto', 'tum')                   |     2
+('senatus', 'consultum', 'syngrapha')         |     2
+('consultum', 'syngrapha', 'ius')             |     2
+('syngrapha', 'ius', 'dico')                  |     2
+('domus', 'mehercule', 'hercule')             |     2
+('littera', 'mitto', 'significo')             |     2
+('non', 'habeo', 'mehercule')                 |     2
+('venio', 'littera', 'mitto')                 |     2
+('etiam', 'nunc', 'provincia')                |     2
+('manlius', 'lepidus', 'lucius')              |     2
+('res', 'publicus', 'prosum')                 |     2
+('res', 'publicus', 'recipero')               |     2
+('littera', 'lucius', 'domitius')             |     2
+('tam', 'magnus', 'quam')                     |     2
+('non', 'ample', 'cohors')                    |     2
+('non', 'possum', 'quam')                     |     2
+('caesar', 'populus', 'fio')                  |     2
+('marcus', 'piso', 'consul')                  |     2
+('varro', 'satisfacio', 'facit')              |     2
+('satisfacio', 'facit', 'pompeius')           |     2
+('tamen', 'scio', 'non')                      |     2
+('ibi', 'forum', 'ago')                       |     2
+('bessi', 'thrax', 'magnus')                  |     1
+('thrax', 'magnus', 'proelium')               |     1
+('magnus', 'proelium', 'fundo')               |     1
+('proelium', 'fundo', 'ita')                  |     1
+('fundo', 'ita', 'socius')                    |     1
+('ita', 'socius', 'tracto')                   |     1
+('socius', 'tracto', 'epistula')              |     1
+('tracto', 'epistula', 'marcus')              |     1
+('epistula', 'marcus', 'cicero')              |     1
+('marcus', 'cicero', 'exsto')                 |     1
