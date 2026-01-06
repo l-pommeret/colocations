@@ -172,13 +172,13 @@ def analyze_cicero_collocations():
         f.write("-" * 60 + "\n")
         f.write(f"{'Collocation':<30} | {'PMI':<10} | {'Count':<5}\n")
         f.write("-" * 60 + "\n")
-        for pair, pmi, count in pmi_scores[:500]:
+        for pair, pmi, count in pmi_scores[:5000]:
             f.write(f"{str(pair):<30} | {pmi:>10.2f} | {count:>5}\n")
 
         f.write("\n" + "="*60 + "\n")
         f.write("TOP FREQUENT PAIRS (Raw Count)\n")
         f.write("-" * 60 + "\n")
-        for pair, count in sorted(pair_counts.items(), key=lambda x: x[1], reverse=True)[:500]:
+        for pair, count in sorted(pair_counts.items(), key=lambda x: x[1], reverse=True)[:5000]:
              f.write(f"{str(pair):<30} | {count:>5}\n")
 
         f.write("\n" + "="*60 + "\n")
