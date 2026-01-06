@@ -119,21 +119,27 @@ def analyze_collocations():
     pmi_scores.sort(key=lambda x: x[1], reverse=True)
 
     # 6. Output Results
-    print("\n" + "="*60)
-    print(f"{'Collocation (Lemma A, Lemma B)':<30} | {'PMI':<10} | {'Count':<5}")
-    print("="*60)
+    output_filename = 'collocations_iliade.txt'
+    print(f"Writing results to {output_filename}...")
     
-    # Show top 50
-    for pair, pmi, count in pmi_scores[:50]:
-        print(f"{str(pair):<30} | {pmi:>10.2f} | {count:>5}")
+    with open(output_filename, 'w', encoding='utf-8') as f:
+        f.write("="*60 + "\n")
+        f.write(f"{'Collocation (Lemma A, Lemma B)':<30} | {'PMI':<10} | {'Count':<5}\n")
+        f.write("="*60 + "\n")
+        
+        # Show top 50 by PMI
+        for pair, pmi, count in pmi_scores[:100]:
+            f.write(f"{str(pair):<30} | {pmi:>10.2f} | {count:>5}\n")
 
-    print("="*60)
-    
-    # Also show top by raw frequency (often interpretable differently)
-    print("\nTop Frequent Pairs (Raw Count):")
-    freq_scores = sorted(pair_counts.items(), key=lambda x: x[1], reverse=True)
-    for pair, count in freq_scores[:20]:
-         print(f"{str(pair):<30} | {count:>5}")
+        f.write("="*60 + "\n")
+        
+        # Also show top by raw frequency
+        f.write("\nTop Frequent Pairs (Raw Count):\n")
+        freq_scores = sorted(pair_counts.items(), key=lambda x: x[1], reverse=True)
+        for pair, count in freq_scores[:50]:
+             f.write(f"{str(pair):<30} | {count:>5}\n")
+             
+    print("Done.")
 
 if __name__ == "__main__":
     analyze_collocations()
