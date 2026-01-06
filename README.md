@@ -2,7 +2,7 @@
 
 Ce projet propose un outil simple pour extraire et identifier les collocations (associations fréquentes de mots) dans un corpus de textes en Grec Ancien.
 
-Il utilise une approche statistique basée sur le **PMI (Pointwise Mutual Information)** couplé à une **lemmatisation** performante via `stanza` (Stanford NLP), ce qui permet de repérer des expressions figées ou des formules poétiques indépendamment des conjugaisons ou déclinaisons.
+Il utilise une approche statistique basée sur le **PMI (Pointwise Mutual Information)** couplé à une **lemmatisation** via `stanza` (Stanford NLP), ce qui permet de repérer des expressions figées ou des formules poétiques indépendamment des conjugaisons ou déclinaisons.
 
 ## Fonctionnalités
 
