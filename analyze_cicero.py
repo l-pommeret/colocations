@@ -122,7 +122,7 @@ def analyze_cicero_collocations():
     pair_counts = collections.Counter()
     trigram_counts = collections.Counter()
     
-    window_size = 5
+    window_size = 10 # Increased to capture long-distance hyperbaton
     total_pairs = 0
     
     for i in range(len(all_lemmas)):
@@ -131,7 +131,12 @@ def analyze_cicero_collocations():
         for j in range(i + 1, end_window):
             next_word = all_lemmas[j]
             if current_word == next_word: continue
-            pair_counts[(current_word, next_word)] += 1
+            
+            # Normalize pair order (A, B) == (B, A)
+            # This captures co-occurence regardless of word order
+            pair = tuple(sorted((current_word, next_word)))
+            
+            pair_counts[pair] += 1
             total_pairs += 1
 
     for i in range(len(all_lemmas) - 2):
