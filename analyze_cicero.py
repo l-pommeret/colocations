@@ -157,34 +157,37 @@ def analyze_cicero_collocations():
 
     pmi_scores.sort(key=lambda x: x[1], reverse=True)
     
-    # Output
-    output_filename = 'collocations_cicero.txt'
-    print(f"Writing results to {output_filename}...")
-    
-    with open(output_filename, 'w', encoding='utf-8') as f:
+    # Output 1: PMI
+    print("Writing PMI results to collocations_cicero_pmi.txt...")
+    with open('collocations_cicero_pmi.txt', 'w', encoding='utf-8') as f:
         f.write("="*60 + "\n")
-        f.write("CICERO ANALYSIS (Treebank Filtered)\n")
-        f.write("Source: Perseus (phi0474) + PROIEL (Atticum, Officiis, etc.)\n")
+        f.write("CICERO: TOP COLLOCATIONS by PMI (Inseparability)\n")
         f.write("="*60 + "\n\n")
-        f.write(f"Total Lemmas: {len(all_lemmas)}\n\n")
-        
-        f.write("TOP COLLOCATIONS (PAIRS) by PMI (Min count: 3)\n")
-        f.write("-" * 60 + "\n")
         f.write(f"{'Collocation':<30} | {'PMI':<10} | {'Count':<5}\n")
         f.write("-" * 60 + "\n")
         for pair, pmi, count in pmi_scores[:5000]:
             f.write(f"{str(pair):<30} | {pmi:>10.2f} | {count:>5}\n")
 
-        f.write("\n" + "="*60 + "\n")
-        f.write("TOP FREQUENT PAIRS (Raw Count)\n")
+    # Output 2: Frequency
+    print("Writing Frequency results to collocations_cicero_freq.txt...")
+    with open('collocations_cicero_freq.txt', 'w', encoding='utf-8') as f:
+        f.write("="*60 + "\n")
+        f.write("CICERO: TOP PAIRS by FREQUENCY (Raw Count)\n")
+        f.write("="*60 + "\n\n")
+        f.write(f"{'Pair':<30} | {'Count':<5}\n")
         f.write("-" * 60 + "\n")
         for pair, count in sorted(pair_counts.items(), key=lambda x: x[1], reverse=True)[:5000]:
              f.write(f"{str(pair):<30} | {count:>5}\n")
 
-        f.write("\n" + "="*60 + "\n")
-        f.write("TOP TRIGRAMS\n")
+    # Output 3: Trigrams
+    print("Writing Trigram results to collocations_cicero_trigrams.txt...")
+    with open('collocations_cicero_trigrams.txt', 'w', encoding='utf-8') as f:
+        f.write("="*60 + "\n")
+        f.write("CICERO: TOP TRIGRAMS by FREQUENCY\n")
+        f.write("="*60 + "\n\n")
+        f.write(f"{'Trigram':<45} | {'Count':<5}\n")
         f.write("-" * 60 + "\n")
-        for trigram, count in sorted(trigram_counts.items(), key=lambda x: x[1], reverse=True)[:200]:
+        for trigram, count in sorted(trigram_counts.items(), key=lambda x: x[1], reverse=True)[:1000]:
              f.write(f"{str(trigram):<45} | {count:>5}\n")
 
     print("Done.")
