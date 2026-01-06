@@ -1,0 +1,268 @@
+============================================================
+ANALYSIS LATIN: Minimal Stopword Filtering (Kept DET/CONJ)
+============================================================
+
+TOP COLLOCATIONS (PAIRS) by PMI (Min count: 10)
+------------------------------------------------------------
+Collocation                    | PMI        | Count
+------------------------------------------------------------
+('codex', 'cusanus')           |      15.83 |    10
+('phileppico', 'antones')      |      15.48 |    13
+('antones', 'philippis')       |      15.48 |    14
+('avtus', 'nvptia')            |      15.44 |    15
+('avtus', 'indotatas')         |      15.43 |    13
+('montanvs', 'votienvs')       |      15.05 |    11
+('rapta', 'avtus')             |      14.80 |    12
+('gelesis', 'nius')            |      14.77 |    11
+('varivs', 'geminvs')          |      14.75 |    18
+('herois', 'heroides')         |      14.69 |    19
+('hispus', 'romanivs')         |      14.64 |    22
+('epistvla', 'heroides')       |      14.43 |    21
+('fvlvum', 'sparsus')          |      14.41 |    11
+('herois', 'epistvla')         |      14.37 |    21
+('tullum', 'epistularis')      |      14.08 |    10
+('hippocras', 'picido')        |      13.97 |    11
+('fvscvs', 'arellivs')         |      13.90 |    25
+('ivnis', 'gallio')            |      13.81 |    14
+('hymen', 'hymena')            |      13.67 |    19
+('lvcilium', 'salvtis')        |      13.58 |    44
+('vergilum', 'maro')           |      13.56 |    49
+('arellus', 'fvscus')          |      13.55 |    41
+('maro', 'ecloga')             |      13.53 |    19
+('vergil', 'maro')             |      13.53 |    19
+('vergilum', 'ecloga')         |      13.49 |    20
+('vergil', 'vergilum')         |      13.49 |    20
+('maro', 'aeneidus')           |      13.49 |    22
+('senecus', 'elder')           |      13.48 |    24
+('lvcilium', 'svo')            |      13.46 |    50
+('ovidus', 'heroides')         |      13.46 |    21
+('vergilum', 'aeneidus')       |      13.44 |    23
+('svo', 'salvtis')             |      13.39 |    44
+('herois', 'ovidus')           |      13.39 |    21
+('ductus', 'auspicioqum')      |      13.32 |    10
+('ovidus', 'epistvla')         |      13.24 |    25
+('subtegmina', 'funio')        |      13.23 |    12
+('hymen', 'hymenaeus')         |      13.12 |    45
+('silus', 'pompeivs')          |      13.08 |    35
+('elder', 'annaeus')           |      12.97 |    12
+('nason', 'heroides')          |      12.95 |    21
+('herois', 'nason')            |      12.88 |    21
+('hymena', 'hymen')            |      12.88 |    11
+('albvcus', 'silio')           |      12.87 |    14
+('ovidus', 'nason')            |      12.82 |    52
+('modius', 'hordeum')          |      12.71 |    10
+('hymena', 'hymenaeus')        |      12.64 |    10
+('assumptio', 'approbatio')    |      12.61 |    10
+('maro', 'vergilum')           |      12.59 |    25
+('numa', 'pompilium')          |      12.56 |    10
+('triticum', 'hordeum')        |      12.55 |    12
+('box', 'vrbes')               |      12.55 |    31
+('ualerius', 'antius')         |      12.52 |    15
+('ecloga', 'vergilum')         |      12.49 |    10
+('aeneidus', 'maro')           |      12.49 |    11
+('nason', 'epistvla')          |      12.49 |    21
+('atilius', 'serranus')        |      12.48 |    10
+('moralis', 'annaeus')         |      12.47 |    17
+('annaeus', 'moralis')         |      12.47 |    17
+('metamorphos', 'ovidus')      |      12.46 |    15
+('ovidus', 'metamorphos')      |      12.46 |    15
+('ovis', 'herois')             |      12.45 |    20
+('phileppico', 'tvllum')       |      12.45 |    13
+('tvllum', 'antones')          |      12.45 |    14
+('tvllum', 'epistvlar')        |      12.45 |    22
+('furius', 'purpurium')        |      12.42 |    11
+('furius', 'medullinus')       |      12.42 |    10
+('aeneidus', 'vergilum')       |      12.38 |    11
+('maenalis', 'tibia')          |      12.38 |    10
+('ivles', 'commentaris')       |      12.30 |    21
+('quinto', 'salutema')         |      12.25 |    25
+('elder', 'senecus')           |      12.22 |    10
+('ovis', 'ovidus')             |      12.08 |    40
+('senecus', 'annaeus')         |      12.07 |    15
+('ivles', 'bassus')            |      12.03 |    17
+('asinius', 'pollius')         |      12.03 |    10
+('triticum', 'modius')         |      11.97 |    30
+('metamorphos', 'nason')       |      11.95 |    15
+('nason', 'metamorphos')       |      11.95 |    15
+('curro', 'subtegmina')        |      11.90 |    12
+('subtegmina', 'curro')        |      11.90 |    12
+('hymenaeus', 'hymen')         |      11.88 |    19
+('box', 'lieus')               |      11.86 |    31
+('raptor', 'avtus')            |      11.82 |    14
+('damen', 'desig')             |      11.80 |    10
+('phileppico', 'cicerona')     |      11.78 |    13
+('cicerona', 'antones')        |      11.78 |    14
+('cicerona', 'philippis')      |      11.78 |    14
+('cicerona', 'epistularis')    |      11.78 |    10
+('cicerona', 'epistvlar')      |      11.78 |    22
+('censa', 'capita')            |      11.78 |    29
+('marcus', 'salutema')         |      11.76 |    25
+('acilius', 'glabrio')         |      11.69 |    11
+('lieus', 'vrbes')             |      11.65 |    33
+('flamen', 'dialis')           |      11.65 |    14
+('aelius', 'paetus')           |      11.64 |    12
+('postumius', 'albinus')       |      11.60 |    23
+('seneca', 'lvcilium')         |      11.56 |    50
+('tvllum', 'cicerona')         |      11.51 |    95
+('seneca', 'lucilium')         |      11.50 |    90
+('seneca', 'salvtis')          |      11.50 |    44
+
+============================================================
+TOP FREQUENT PAIRS (Raw Count)
+------------------------------------------------------------
+Pair                           | Count
+------------------------------------------------------------
+('qui', 'sum')                 | 13846
+('sum', 'qui')                 | 12402
+('is', 'qui')                  | 10443
+('sum', 'et')                  |  8919
+('sum', 'in')                  |  8871
+('sum', 'is')                  |  7155
+('is', 'sum')                  |  6961
+('in', 'sum')                  |  6828
+('qui', 'in')                  |  6220
+('non', 'sum')                 |  5962
+('et', 'sum')                  |  5910
+('et', 'qui')                  |  5862
+('in', 'qui')                  |  5713
+('sum', 'non')                 |  5428
+('et', 'in')                   |  5348
+('sum', 'ut')                  |  5331
+('sum', 'hic')                 |  5052
+('hic', 'sum')                 |  4745
+('qui', 'et')                  |  4534
+('qui', 'non')                 |  4266
+('in', 'is')                   |  4149
+('sum', 'cum')                 |  4057
+('in', 'et')                   |  3828
+('sum', 'ego')                 |  3770
+('res', 'publicus')            |  3619
+('qui', 'is')                  |  3582
+('ego', 'sum')                 |  3524
+('sum', 'quod')                |  3448
+('sum', 'ille')                |  3430
+('non', 'sed')                 |  3426
+('et', 'is')                   |  3398
+('si', 'sum')                  |  3363
+('cum', 'sum')                 |  3260
+('sum', 'ad')                  |  3173
+('ille', 'qui')                |  3155
+('sum', 'si')                  |  3137
+('sum', 'ab')                  |  3130
+('in', 'hic')                  |  3049
+('qui', 'ego')                 |  3047
+('is', 'in')                   |  2960
+('res', 'sum')                 |  2888
+('ille', 'sum')                |  2878
+('qui', 'ad')                  |  2857
+('sum', 'tu')                  |  2839
+('hic', 'qui')                 |  2828
+('non', 'possum')              |  2817
+('qui', 'res')                 |  2699
+('ut', 'sum')                  |  2696
+('tu', 'sum')                  |  2691
+('sum', 'sed')                 |  2627
+('qui', 'cum')                 |  2622
+('sum', 'omnis')               |  2617
+('dico', 'sum')                |  2609
+('sum', 'enim')                |  2588
+('sum', 'quam')                |  2579
+('is', 'et')                   |  2561
+('in', 'res')                  |  2554
+('non', 'qui')                 |  2549
+('sum', 'dico')                |  2513
+('quis', 'sum')                |  2513
+('qui', 'tu')                  |  2499
+('et', 'hic')                  |  2479
+('ut', 'in')                   |  2471
+('et', 'ad')                   |  2461
+('ad', 'qui')                  |  2418
+('facio', 'sum')               |  2416
+('ut', 'is')                   |  2385
+('ut', 'qui')                  |  2383
+('et', 'cum')                  |  2366
+('quod', 'sum')                |  2352
+('sum', 'res')                 |  2348
+('omnis', 'sum')               |  2338
+('qui', 'ab')                  |  2332
+('ad', 'is')                   |  2292
+('qui', 'hic')                 |  2235
+('ab', 'sum')                  |  2198
+('cum', 'in')                  |  2186
+('ex', 'qui')                  |  2169
+('et', 'non')                  |  2153
+('hic', 'et')                  |  2123
+('ab', 'qui')                  |  2112
+('sum', 'quis')                |  2095
+('is', 'non')                  |  2069
+('omnis', 'qui')               |  2068
+('qui', 'possum')              |  2054
+('ne', 'quidem')               |  2048
+('hic', 'in')                  |  2046
+('qui', 'dico')                |  2043
+('non', 'in')                  |  2039
+('et', 'ab')                   |  2034
+('sum', 'ex')                  |  2026
+('possum', 'sum')              |  1999
+('ego', 'qui')                 |  1960
+('cum', 'is')                  |  1959
+('qui', 'ille')                |  1945
+('qui', 'sui')                 |  1926
+('sum', 'de')                  |  1923
+('cum', 'et')                  |  1909
+('et', 'ut')                   |  1895
+('de', 'qui')                  |  1875
+
+============================================================
+TOP TRIGRAMS (3-Word Phrases) by FREQUENCY
+============================================================
+('in', 'res', 'publicus')                     |   384
+('qui', 'ad', 'modus')                        |   354
+('ai', 'cicerus', 'attico')                   |   318
+('cicerus', 'attico', 'sal')                  |   281
+('de', 'res', 'publicus')                     |   260
+('sum', 'is', 'qui')                          |   259
+('quam', 'ob', 'res')                         |   257
+('unus', 'canus', 'cicerus')                  |   217
+('et', 'is', 'qui')                           |   216
+('is', 'qui', 'sum')                          |   215
+('sum', 'in', 'is')                           |   213
+('ad', 'is', 'qui')                           |   207
+('in', 'is', 'qui')                           |   200
+('qui', 'sum', 'in')                          |   199
+('is', 'qui', 'in')                           |   192
+('ut', 'is', 'qui')                           |   188
+('res', 'publicus', 'sum')                    |   180
+('ab', 'is', 'qui')                           |   177
+('sum', 'non', 'possum')                      |   175
+('sum', 'in', 'qui')                          |   173
+('lies', 'classics', 'pax')                   |   169
+('is', 'res', 'qui')                          |   156
+('ab', 'urbs', 'condo')                       |   145
+('classics', 'pax', 'periocha')               |   141
+('cicerus', 'classics', 'pax')                |   137
+('in', 'is', 'locus')                         |   135
+('ex', 'senatus', 'consulo')                  |   135
+('sum', 'qui', 'non')                         |   130
+('is', 'sum', 'qui')                          |   130
+('sum', 'in', 'hic')                          |   129
+('pax', 'periocha', 'titus')                  |   129
+('ex', 'is', 'qui')                           |   125
+('sum', 'ut', 'is')                           |   124
+('urbs', 'condo', 'liber')                    |   123
+('quis', 'sum', 'quod')                       |   121
+('classics', 'pax', 'cicerus')                |   121
+('cum', 'is', 'qui')                          |   118
+('in', 'qui', 'sum')                          |   116
+('solum', 'sed', 'etiam')                     |   115
+('nihil', 'sum', 'quod')                      |   113
+('nullus', 'modus', 'possum')                 |   113
+('si', 'quis', 'sum')                         |   111
+('in', 'is', 'res')                           |   109
+('qui', 'in', 'res')                          |   105
+('cicerus', 'sanctus', 'damen')               |   105
+('is', 'qui', 'dico')                         |   103
+('in', 'hic', 'res')                          |   103
+('titus', 'lieus', 'ab')                      |   102
+('canus', 'cicerus', 'sanctus')               |    99
+('non', 'sum', 'in')                          |    98

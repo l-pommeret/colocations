@@ -1,0 +1,2221 @@
+============================================================
+LATIN TREEBANK ANALYSIS (Perseus + PROIEL)
+Source: High-quality hand-annotated lemmas (CoNLL-U)
+============================================================
+
+Total Filtered Tokens: 140927
+
+TOP COLLOCATIONS (PAIRS) by PMI (Min count: 5)
+------------------------------------------------------------
+Collocation                    | PMI        | Count
+------------------------------------------------------------
+('quamobrem', 'ob')            |      12.31 |     7
+('quamobrem', 'rem')           |      12.31 |     7
+('ob', 'rem')                  |      12.31 |     7
+('nihilominus', 'minus')       |      12.31 |     7
+('transmigratio', 'babylon')   |      12.24 |     6
+('tyros', 'sidon')             |      11.37 |     9
+('fletus', 'stridor')          |      10.95 |     7
+('testaceus', 'pavimentum')    |      10.73 |     6
+('granum', 'sinapi')           |      10.61 |     5
+('ad', 'modum')                |      10.59 |    16
+('cornu', 'diadema')           |      10.44 |     5
+('stridor', 'dens')            |      10.43 |     7
+('nonnullus', 'nullis')        |      10.42 |     5
+('nonnullus', 'nulli')         |      10.42 |     6
+('tribus', 'beniamin')         |      10.31 |     5
+('titurius', 'sabinus')        |      10.27 |     5
+('humilio', 'exalto')          |      10.22 |     7
+('tergum', 'verto')            |      10.21 |     5
+('mehercule', 'hercule')       |      10.21 |    29
+('longitudo', 'latitudo')      |      10.18 |     5
+('iudas', 'scarioth')          |      10.06 |    13
+('saturo', 'fragmentum')       |      10.02 |     5
+('exalto', 'humilio')          |      10.00 |     6
+('virga', 'ferreus')           |       9.92 |     6
+('idolum', 'immolo')           |       9.83 |     6
+('terrenus', 'caelestis')      |       9.80 |     5
+('fletus', 'dens')             |       9.80 |     7
+('tuba', 'cano')               |       9.79 |    18
+('circumcisio', 'praeputium')  |       9.78 |    12
+('ianuarius', 'februarius')    |       9.76 |     6
+('masculus', 'femina')         |       9.71 |     6
+('telum', 'coicio')            |       9.70 |     9
+('fimbria', 'tango')           |       9.63 |     5
+('quemadmodum', 'modum')       |       9.63 |    16
+('ovum', 'suppono')            |       9.47 |     6
+('maria', 'magdalene')         |       9.45 |    13
+('sponsus', 'ieiuno')          |       9.36 |     7
+('formianus', 'maias')         |       9.35 |     5
+('idus', 'maias')              |       9.31 |     6
+('gallus', 'ter')              |       9.29 |     7
+('canto', 'canticum')          |       9.23 |     5
+('aedificium', 'incendo')      |       9.21 |     9
+('graecus', 'latinus')         |       9.17 |     5
+('gallus', 'canto')            |       9.14 |     9
+('late', 'pateo')              |       9.14 |     6
+('caedes', 'incendium')        |       9.13 |     6
+('quemadmodum', 'ad')          |       9.10 |    16
+('esurio', 'sitio')            |       9.07 |     8
+('effundo', 'fiala')           |       9.06 |     8
+('macedonia', 'achaia')        |       9.05 |     5
+('mensura', 'metior')          |       9.03 |     7
+('herodes', 'tetrarches')      |       9.01 |     5
+('dexter', 'sinister')         |       9.00 |     6
+('rhenus', 'incolo')           |       8.93 |     7
+('isaac', 'iacob')             |       8.90 |    14
+('forensis', 'domesticus')     |       8.89 |     5
+('vinum', 'uter')              |       8.84 |    12
+('beelzebub', 'eicio')         |       8.80 |     7
+('praeputium', 'circumcisio')  |       8.78 |     6
+('abraham', 'isaac')           |       8.77 |    11
+('festuca', 'oculus')          |       8.71 |     9
+('ignis', 'sulphur')           |       8.71 |     7
+('canto', 'ter')               |       8.70 |     6
+('gaius', 'valerius')          |       8.66 |     6
+('quare', 're')                |       8.64 |    33
+('andreas', 'philippus')       |       8.61 |     6
+('beelzebub', 'daemonium')     |       8.59 |     5
+('vicus', 'aedificium')        |       8.57 |     6
+('magdalene', 'maria')         |       8.56 |     7
+('caput', 'diadema')           |       8.53 |     5
+('mons', 'olivetum')           |       8.53 |     8
+('extendo', 'restituo')        |       8.50 |     6
+('quartus', 'vigilia')         |       8.49 |     5
+('luna', 'stella')             |       8.47 |     7
+('claritas', 'stella')         |       8.46 |     5
+('fleo', 'lugeo')              |       8.43 |     5
+('testimonium', 'perhibeo')    |       8.40 |    46
+('acies', 'instruo')           |       8.40 |     9
+('lugeo', 'vae')               |       8.37 |     5
+('titus', 'labienus')          |       8.36 |     7
+('iudaea', 'iordanes')         |       8.27 |     6
+('uter', 'vinum')              |       8.26 |     8
+('foris', 'intus')             |       8.25 |     6
+('pastor', 'ovis')             |       8.21 |     7
+('supra', 'demonstro')         |       8.21 |     7
+('consummatio', 'saeculum')    |       8.19 |     5
+('arbustum', 'vitis')          |       8.19 |     5
+('absens', 'praesens')         |       8.19 |     7
+('semino', 'meto')             |       8.14 |     8
+('aes', 'alienus')             |       8.14 |     6
+('vicus', 'incendo')           |       8.14 |     6
+('frigidus', 'calidus')        |       8.14 |     7
+('eicio', 'daemon')            |       8.12 |     5
+('signo', 'tribus')            |       8.11 |     6
+('aperio', 'sigillum')         |       8.10 |     9
+('saluto', 'osculum')          |       8.10 |     5
+('iacob', 'zebedaeus')         |       8.10 |     6
+('pulso', 'aperio')            |       8.07 |     8
+('iohannes', 'baptista')       |       8.05 |    15
+('hiem(p)s', 'aestas')         |       8.04 |     5
+('vae', 'hypocrita')           |       8.00 |     6
+('caveo', 'fermentum')         |       7.99 |     5
+('mensis', 'ianuarius')        |       7.97 |    13
+('cano', 'tuba')               |       7.94 |     5
+('oculus', 'trabs')            |       7.91 |     6
+('contumelia', 'afficio')      |       7.89 |     5
+('saulus', 'persequor')        |       7.86 |     6
+('caecus', 'claudus')          |       7.85 |     5
+('hora', 'nonus')              |       7.83 |    12
+('altare', 'iuro')             |       7.80 |     5
+('quintus', 'titurius')        |       7.79 |     8
+('sol', 'luna')                |       7.77 |    10
+('vetus', 'alioqui(n)')        |       7.75 |     5
+('novissimus', 'agmen')        |       7.75 |     6
+('diligo', 'proximum')         |       7.73 |    10
+('meto', 'semino')             |       7.73 |     6
+('scabillum', 'pes')           |       7.73 |     6
+('aperio', 'signaculum')       |       7.71 |     5
+('lapis', 'pretiosus')         |       7.71 |     8
+('ligo', 'solvo')              |       7.70 |     7
+('dignus', 'calceamentum')     |       7.68 |     5
+('constitutio', 'mundus')      |       7.67 |     6
+('publicanus', 'peccator')     |       7.66 |     8
+('trabs', 'oculus')            |       7.64 |     5
+('simon', 'scarioth')          |       7.63 |     5
+('misericordia', 'consequor')  |       7.60 |     9
+('honoro', 'mater')            |       7.60 |     6
+('stagnum', 'ignis')           |       7.59 |     6
+('diligo', 'benefacio')        |       7.59 |     7
+('circiter', 'passus')         |       7.59 |     8
+('gehenna', 'ignis')           |       7.57 |     5
+('scriba', 'hypocrita')        |       7.57 |     6
+('senatus', 'consultum')       |       7.56 |    35
+('velo', 'caput')              |       7.56 |     7
+('bestia', 'imago')            |       7.55 |     9
+('tollo', 'grabattus')         |       7.54 |     8
+('benedico', 'frango')         |       7.54 |     6
+('marcus', 'piso')             |       7.52 |     8
+('draco', 'bestia')            |       7.52 |     5
+('simon', 'andreas')           |       7.51 |     5
+('usque', 'hodiernus')         |       7.50 |     7
+('uter', 'pereo')              |       7.49 |     6
+('pharisaeus', 'sadducaei')    |       7.49 |     7
+('mensis', 'februarius')       |       7.40 |     6
+('fiala', 'plenus')            |       7.39 |     5
+('lucius', 'domitius')         |       7.38 |     8
+('agricola', 'fructus')        |       7.36 |     5
+('tantum', 'quantum')          |       7.36 |    10
+('tribunus', 'plebs')          |       7.36 |    30
+('maria', 'ioseph')            |       7.34 |     9
+('iordanes', 'baptizo')        |       7.30 |     5
+('ius', 'iuro')                |       7.26 |    15
+('calix', 'bibo')              |       7.26 |    12
+('grabattus', 'ambulo')        |       7.24 |     5
+('vendo', 'emo')               |       7.23 |     9
+('tenebrae', 'compr(eh)endo')  |       7.23 |     5
+('publius', 'clodius')         |       7.22 |     8
+('simon', 'cognomino')         |       7.21 |     5
+('legio', 'conscribo')         |       7.20 |     7
+('reputo', 'iustitia')         |       7.17 |     6
+('porta', 'murus')             |       7.15 |     6
+('ter', 'nego')                |       7.13 |     6
+('panis', 'piscis')            |       7.13 |    12
+('quintus', 'sabinus')         |       7.11 |     5
+('pauper', 'beatus')           |       7.11 |     5
+('titurius', 'legatus')        |       7.10 |     5
+('ibi', 'stridor')             |       7.10 |     5
+('panis', 'quot')              |       7.08 |     6
+('signum', 'prodigium')        |       7.07 |     8
+('suscito', 'mortuus')         |       7.07 |    17
+('adoro', 'imago')             |       7.04 |     7
+('novus', 'uter')              |       7.03 |     8
+('moleste', 'fero')            |       7.02 |    11
+('greek.expression', 'istuc')  |       7.01 |     7
+('fermentum', 'pharisaeus')    |       7.00 |     5
+('remissio', 'peccatum')       |       7.00 |     8
+('gallus', 'nego')             |       6.99 |     6
+('pharisaeus', 'hypocrita')    |       6.99 |     6
+('cado', 'spina')              |       6.97 |     6
+('sequani', 'helvetii')        |       6.97 |     7
+('princeps', 'sacerdos')       |       6.96 |    63
+('falsus', 'testimonium')      |       6.95 |     8
+('pes', 'semis')               |       6.95 |     7
+('fumus', 'saeculum')          |       6.94 |     6
+('resurrectio', 'mortuus')     |       6.94 |    14
+('iacob', 'ioseph')            |       6.93 |     8
+('persecutio', 'patior')       |       6.92 |     5
+('ascendo', 'navicula')        |       6.91 |     7
+('lapis', 'destruo')           |       6.90 |     6
+('primus', 'cathedra')         |       6.90 |     5
+('tenebrae', 'lux')            |       6.88 |     8
+('intus', 'plenus')            |       6.87 |     5
+('lutum', 'oculus')            |       6.87 |     5
+('singulus', 'bini')           |       6.86 |     5
+('os', 'draco')                |       6.85 |     6
+('draco', 'os')                |       6.85 |     6
+('angelus', 'tuba')            |       6.84 |    16
+('paulus', 'silas')            |       6.82 |     6
+('cum', 'tum')                 |       6.82 |    35
+('sacerdos', 'scriba')         |       6.82 |    22
+('explorator', 'certus')       |       6.81 |     5
+('piso', 'consul')             |       6.81 |    10
+('mortuus', 'resurgo')         |       6.81 |    18
+('extendo', 'manus')           |       6.79 |    16
+('baptismum', 'iohannes')      |       6.79 |     5
+('pons', 'praesidium')         |       6.79 |     5
+('aurum', 'lapis')             |       6.78 |     5
+('adimpleo', 'propheta')       |       6.78 |     7
+('adoro', 'bestia')            |       6.77 |    11
+('quartus', 'animal')          |       6.76 |     5
+('esaias', 'propheta')         |       6.75 |     9
+('iordanes', 'iohannes')       |       6.73 |     6
+('vestimentum', 'albus')       |       6.73 |     6
+('tertius', 'vigilia')         |       6.73 |     5
+('turba', 'comprimo')          |       6.71 |     5
+('duco', 'moechor')            |       6.71 |     5
+('imago', 'bestia')            |       6.70 |     5
+('perhibeo', 'verus')          |       6.68 |     8
+('tango', 'confestim')         |       6.68 |     5
+('sacerdos', 'senex')          |       6.66 |    23
+('decimus', 'legio')           |       6.65 |     8
+('iudaea', 'galilaea')         |       6.64 |     8
+('usque', 'nonus')             |       6.64 |     6
+('maria', 'iacob')             |       6.64 |    10
+('rhenus', 'transeo')          |       6.63 |    18
+('uter', 'novus')              |       6.62 |     6
+('edo', 'bibo')                |       6.61 |     7
+('manduco', 'bibo')            |       6.60 |    32
+('sedeo', 'thronus')           |       6.60 |    19
+('satanas', 'divido')          |       6.60 |     5
+('fons', 'aqua')               |       6.60 |     8
+('germani', 'rhenus')          |       6.58 |    10
+('tribus', 'lingua')           |       6.57 |     6
+('satis', 'commode')           |       6.57 |     6
+('seminarium', 'debeo')        |       6.56 |     5
+('absconditus', 'reddo')       |       6.56 |     6
+('invoco', 'nomen')            |       6.55 |     9
+('messalla', 'consul')         |       6.54 |     5
+('simon', 'petrus')            |       6.53 |    30
+('dux', 'caecus')              |       6.53 |     6
+('crucifigo', 'pilatus')       |       6.53 |     7
+('moses', 'helias')            |       6.52 |     5
+('eicio', 'foras')             |       6.52 |     6
+('gladius', 'percutio')        |       6.52 |     5
+('iam', 'pridem')              |       6.52 |    13
+('iacob', 'iudas')             |       6.51 |     6
+('vinum', 'effundo')           |       6.50 |     6
+('universus', 'orbis')         |       6.49 |     6
+('vox', 'tonitruum')           |       6.48 |     6
+('dimitto', 'barabbas')        |       6.48 |     5
+('petrus', 'andreas')          |       6.47 |     5
+('senatus', 'recito')          |       6.47 |     5
+('ibi', 'fletus')              |       6.46 |     5
+('semis', 'pes')               |       6.46 |     5
+('lux', 'tenebrae')            |       6.46 |     6
+('daemonium', 'eicio')         |       6.45 |    13
+('eicio', 'daemonium')         |       6.45 |    13
+('vita', 'aeternus')           |       6.43 |    35
+('regnum', 'terraemotus')      |       6.43 |     6
+('publius', 'crassus')         |       6.42 |     6
+('prodigium', 'signum')        |       6.39 |     5
+('parabola', 'semino')         |       6.39 |     5
+('obses', 'impero')            |       6.39 |     9
+('vir', 'israelitae')          |       6.38 |     5
+('aedui', 'sequani')           |       6.37 |     5
+('praesidium', 'impedimentum') |       6.37 |     5
+('canto', 'nego')              |       6.36 |     5
+('clamo', 'misereor')          |       6.36 |     7
+('labienus', 'legio')          |       6.36 |     6
+('osculum', 'sanctus')         |       6.34 |     5
+('perhibeo', 'testimonium')    |       6.34 |    11
+('aureus', 'plenus')           |       6.33 |     5
+('quanto', 'magis')            |       6.33 |    15
+('ample', 'passus')            |       6.30 |     6
+('populus', 'romanus')         |       6.30 |    79
+('thronus', 'animal')          |       6.29 |     5
+('ostium', 'aperio')           |       6.28 |     6
+('fleo', 'vae')                |       6.27 |     5
+('scriba', 'pharisaeus')       |       6.25 |    14
+('thronus', 'saeculum')        |       6.25 |     8
+('angelus', 'cano')            |       6.23 |     9
+('galilaea', 'iudaea')         |       6.23 |     6
+('lex', 'peritus')             |       6.22 |     8
+('angelus', 'fiala')           |       6.22 |     5
+('iter', 'agmen')              |       6.22 |     5
+('caput', 'cornu')             |       6.21 |     8
+('proelium', 'committo')       |       6.21 |    12
+('soror', 'maria')             |       6.20 |     5
+('auris', 'ecclesia')          |       6.19 |    13
+('iudaei', 'gentilis')         |       6.19 |     5
+('vitis', 'sarmentum')         |       6.19 |     5
+('vestimentum', 'tango')       |       6.19 |     7
+('pono', 'genu')               |       6.19 |     8
+('passus', 'absum')            |       6.18 |     7
+('cognomino', 'petrus')        |       6.17 |     5
+('labienus', 'legatus')        |       6.16 |     5
+('praeparo', 'via')            |       6.16 |     5
+('impetus', 'sustineo')        |       6.14 |     7
+('gnaeus', 'pompeius')         |       6.13 |     5
+('metellus', 'consul')         |       6.13 |     6
+('bellum', 'infero')           |       6.12 |    23
+('panis', 'frango')            |       6.11 |     9
+('sedeo', 'tribunal')          |       6.10 |     5
+('abraham', 'iacob')           |       6.10 |     7
+('resurgo', 'mortuus')         |       6.10 |    11
+('mensis', 'sero')             |       6.10 |    11
+('arbor', 'fructus')           |       6.09 |    14
+('iudaei', 'lapido')           |       6.09 |     5
+('membrum', 'corpus')          |       6.09 |    14
+('panis', 'benedico')          |       6.08 |     6
+('profero', 'malus')           |       6.07 |     6
+('saeculum', 'thronus')        |       6.06 |     7
+('vae', 'scriba')              |       6.04 |     6
+('simon', 'iudas')             |       6.04 |     5
+('exclamo', 'vox')             |       6.04 |     8
+('manduco', 'saturo')          |       6.03 |     5
+('iacob', 'iohannes')          |       6.03 |    16
+('spiritus', 'immundus')       |       6.02 |    20
+('committo', 'audeo')          |       6.02 |     6
+('soror', 'mater')             |       6.02 |     8
+('thronus', 'senex')           |       6.01 |     6
+('radix', 'arbor')             |       6.00 |     7
+('bibo', 'calix')              |       6.00 |     5
+('stella', 'cado')             |       5.99 |     5
+('helias', 'propheta')         |       5.97 |     7
+('tango', 'vestimentum')       |       5.97 |     6
+('praedico', 'evangelium')     |       5.96 |    12
+('paro', 'pascha')             |       5.96 |     5
+('curo', 'valeo')              |       5.96 |    16
+('semino', 'semen')            |       5.95 |     7
+('ibi', 'dens')                |       5.95 |     5
+('novus', 'testamentum')       |       5.94 |     5
+('marcus', 'crassus')          |       5.93 |     5
+('sabbatum', 'synagoga')       |       5.93 |     7
+('paulus', 'barnabas')         |       5.93 |     7
+('pars', 'septentriones')      |       5.92 |     6
+('semino', 'cado')             |       5.92 |     9
+('hora', 'sextus')             |       5.91 |     5
+('undique', 'convenio')        |       5.91 |     5
+('domitius', 'consul')         |       5.91 |     6
+('titus', 'legatus')           |       5.90 |     6
+('doceo', 'doctrina')          |       5.90 |     8
+('murus', 'lapis')             |       5.90 |     5
+('vigilo', 'oro')              |       5.90 |     6
+('mina', 'aio')                |       5.90 |     5
+('iudicium', 'condemno')       |       5.89 |     5
+('honoro', 'pater')            |       5.89 |     8
+('honorifico', 'pater')        |       5.89 |     8
+('bestia', 'adoro')            |       5.89 |     6
+('saeculum', 'amen')           |       5.89 |    19
+('lex', 'lucrum')              |       5.89 |     5
+('lex', 'abrogo')              |       5.89 |     5
+('paulus', 'perduco')          |       5.89 |     6
+('impedimentum', 'legio')      |       5.88 |     6
+('pes', 'capillus')            |       5.88 |     5
+('vae', 'pharisaeus')          |       5.87 |     8
+('valde', 'gratus')            |       5.86 |     6
+('quo', 'vado')                |       5.85 |    12
+('monumentum', 'maria')        |       5.83 |     5
+('anima', 'perdo')             |       5.82 |    11
+('gratia', 'actio')            |       5.82 |     9
+('manduco', 'conscientia')     |       5.82 |     5
+('quin', 'etiam')              |       5.82 |     8
+('semino', 'via')              |       5.82 |    11
+('testimonium', 'verus')       |       5.81 |    12
+('discumbo', 'panis')          |       5.81 |     5
+('do', 'calculus')             |       5.81 |     6
+('sero', 'mensis')             |       5.81 |     9
+('multum', 'valeo')            |       5.80 |     9
+('celeriter', 'conficio')      |       5.79 |     5
+('iniuria', 'infero')          |       5.78 |     7
+('iudas', 'trado')             |       5.78 |     9
+('senatus', 'decerno')         |       5.78 |    11
+('secundus', 'tertius')        |       5.77 |    10
+('tertius', 'quartus')         |       5.77 |     5
+('principatus', 'potestas')    |       5.77 |     5
+('longe', 'absum')             |       5.77 |    12
+('adoptio', 'filius')          |       5.77 |     5
+('consultum', 'consul')        |       5.77 |     7
+('secundus', 'animal')         |       5.76 |     5
+('princeps', 'senex')          |       5.75 |    20
+('quantum', 'amo')             |       5.74 |     5
+('desertus', 'locus')          |       5.74 |     7
+('opinor', 'greek.expression') |       5.73 |    11
+('vigilo', 'nescio')           |       5.73 |     6
+('germani', 'consuetudo')      |       5.73 |     5
+('animal', 'senex')            |       5.71 |     6
+('barnabas', 'paulus')         |       5.71 |     6
+('memoria', 'oratio')          |       5.71 |     5
+('tertius', 'resurgo')         |       5.70 |     8
+('clamor', 'tollo')            |       5.70 |     5
+('curo', 'infirmitas')         |       5.70 |     5
+('verbum', 'prophetia')        |       5.69 |     6
+('pono', 'candelabrum')        |       5.69 |     5
+('intercedo', 'senatus')       |       5.68 |     5
+('ut', 'opinor')               |       5.67 |    12
+('iudico', 'condemno')         |       5.67 |     5
+('mater', 'foris')             |       5.67 |     5
+('remitto', 'peccatum')        |       5.66 |     6
+('summus', 'sacerdos')         |       5.66 |    20
+('tribunus', 'miles')          |       5.66 |    14
+('cottidie', 'templum')        |       5.65 |     6
+('accipio', 'caracter')        |       5.64 |     5
+('altitudo', 'pes')            |       5.64 |     8
+('marcus', 'consul')           |       5.64 |    11
+('sacerdos', 'concilium')      |       5.63 |     6
+('iudaei', 'graeci')           |       5.63 |     8
+('impleo', 'scriptura')        |       5.62 |     5
+('novus', 'vetus')             |       5.62 |    11
+('senex', 'scriba')            |       5.61 |     7
+('scriba', 'senex')            |       5.61 |     7
+('civitas', 'nazareth')        |       5.61 |     5
+('inhabito', 'terra')          |       5.60 |     8
+('corpus', 'membrum')          |       5.60 |    10
+('ascendo', 'cornu')           |       5.59 |     5
+('tollo', 'crux')              |       5.59 |     5
+('clamo', 'crucifigo')         |       5.58 |     6
+('certo', 'scio')              |       5.58 |     8
+('copia', 'traduco')           |       5.58 |     5
+('epirus', 'proficiscor')      |       5.58 |     6
+('iustifico', 'fides')         |       5.58 |     9
+('saeculum', 'senex')          |       5.58 |     9
+('rhenus', 'germani')          |       5.58 |     5
+('consilium', 'ineo')          |       5.58 |     7
+('sabbatum', 'maria')          |       5.57 |     5
+('hodiernus', 'dies')          |       5.57 |     8
+('iohannes', 'helias')         |       5.57 |     5
+('castra', 'munio')            |       5.56 |     7
+('inicio', 'manus')            |       5.56 |     5
+('vehementer', 'gaudeo')       |       5.56 |     5
+('princeps', 'scriba')         |       5.55 |    15
+('benedictus', 'nomen')        |       5.55 |     6
+('ascendo', 'festus')          |       5.55 |     5
+('hora', 'vigilo')             |       5.55 |     6
+('aveo', 'scio')               |       5.54 |     5
+('adhuc', 'modicus')           |       5.54 |     5
+('perdo', 'anima')             |       5.53 |     9
+('cornu', 'caput')             |       5.53 |     5
+('lex', 'iustifico')           |       5.53 |    11
+('sedeo', 'dexter')            |       5.53 |     8
+('animal', 'inimicus')         |       5.52 |     5
+('castra', 'reduco')           |       5.52 |     5
+('an', 'nescio')               |       5.51 |     5
+('reliquus', 'belgae')         |       5.51 |     5
+('maria', 'mater')             |       5.50 |     7
+('via', 'rectus')              |       5.50 |     5
+('vox', 'tuba')                |       5.50 |     8
+('flumen', 'rhenus')           |       5.50 |     7
+('ministro', 'anima')          |       5.50 |     5
+('cado', 'adoro')              |       5.50 |     8
+('templum', 'vendo')           |       5.49 |     6
+('magnus', 'natu')             |       5.49 |     5
+('vetus', 'novus')             |       5.48 |    10
+('passus', 'castra')           |       5.47 |     9
+('praecipio', 'moses')         |       5.47 |     6
+('angulus', 'terra')           |       5.47 |     5
+('generatio', 'signum')        |       5.46 |     7
+('sumo', 'panis')              |       5.46 |     6
+('gaudeo', 'gaudium')          |       5.45 |     6
+('iacob', 'simon')             |       5.45 |     6
+('clamo', 'david')             |       5.45 |     6
+('salvus', 'perdo')            |       5.44 |     8
+('publicus', 'privatus')       |       5.44 |     6
+('recipio', 'merces')          |       5.43 |     5
+('andreas', 'frater')          |       5.43 |     6
+('bellum', 'gero')             |       5.42 |    27
+('vivo', 'saeculum')           |       5.42 |    14
+('petrus', 'iacob')            |       5.41 |    12
+('exercitus', 'traduco')       |       5.41 |     5
+('ascendo', 'hierosolyma')     |       5.41 |    19
+('iohannes', 'baptizo')        |       5.41 |    12
+('transeo', 'conor')           |       5.41 |     5
+('lavo', 'pes')                |       5.40 |     6
+('aperio', 'oculus')           |       5.40 |    16
+('tango', 'salvus')            |       5.39 |     6
+('paenitentia', 'ago')         |       5.39 |    22
+('manduco', 'panis')           |       5.39 |    19
+('abraham', 'semen')           |       5.39 |     5
+('procedo', 'os')              |       5.38 |     6
+('auris', 'audio')             |       5.38 |    36
+('ecce', 'illic')              |       5.37 |     7
+('lucius', 'consul')           |       5.37 |     9
+('publicus', 'administro')     |       5.37 |     6
+('spiritus', 'sanctus')        |       5.37 |    79
+('repleo', 'sanctus')          |       5.37 |     6
+('multo', 'magis')             |       5.36 |    16
+('inferus', 'pars')            |       5.36 |     7
+('hostis', 'conspicio')        |       5.35 |     5
+('senatus', 'censeo')          |       5.34 |     5
+('bibo', 'baptizo')            |       5.34 |     7
+('iohannes', 'desertum')       |       5.33 |     5
+('dies', 'natalis')            |       5.33 |     6
+('amen', 'merces')             |       5.32 |     5
+('occido', 'resurgo')          |       5.32 |     7
+('cogitatio', 'cor')           |       5.31 |     5
+('iesus', 'nazarenus')         |       5.31 |    16
+('dominus', 'omnipotens')      |       5.30 |     8
+('fructus', 'arbor')           |       5.29 |     8
+('sicut', 'columba')           |       5.28 |     5
+('volucris', 'caelum')         |       5.28 |     5
+('nisi', 'solus')              |       5.27 |    11
+('frango', 'panis')            |       5.26 |     5
+('coinquino', 'homo')          |       5.26 |     7
+('filius', 'zebedaeus')        |       5.25 |     6
+('gloria', 'cupiditas')        |       5.24 |     5
+('quam', 'gehenna')            |       5.24 |     6
+('gladius', 'sacerdos')        |       5.23 |     5
+('verus', 'testimonium')       |       5.23 |     8
+('proelium', 'contendo')       |       5.23 |     9
+('praedico', 'paenitentia')    |       5.22 |     6
+('labienus', 'hostis')         |       5.22 |     5
+('invenio', 'pullus')          |       5.22 |     6
+('herodes', 'iohannes')        |       5.21 |     6
+('aperio', 'os')               |       5.21 |    12
+('clamo', 'vox')               |       5.20 |    20
+('monumentum', 'lapis')        |       5.20 |     5
+('senex', 'adoro')             |       5.20 |     5
+('sedes', 'sedeo')             |       5.19 |     6
+('falx', 'terra')              |       5.19 |     6
+('primus', 'novissimus')       |       5.19 |    12
+('locus', 'deligo')            |       5.19 |    11
+('res', 'frumentarius')        |       5.18 |    16
+('crux', 'sequor')             |       5.18 |     5
+('dominus', 'mina')            |       5.17 |     6
+('licet', 'sabbatum')          |       5.17 |     7
+('universus', 'regio')         |       5.16 |     6
+('tuba', 'angelus')            |       5.16 |     5
+('potius', 'quam')             |       5.16 |    33
+('dies', 'festus')             |       5.16 |    22
+('vox', 'saulus')              |       5.16 |     5
+('vinum', 'novus')             |       5.15 |     9
+('fidelis', 'constituo')       |       5.15 |     6
+('obses', 'adduco')            |       5.15 |     5
+('thronus', 'liber')           |       5.15 |     6
+('sedeo', 'nubes')             |       5.15 |     5
+('vitis', 'arbor')             |       5.14 |     7
+('panis', 'manduco')           |       5.14 |    16
+('praesidium', 'relinquo')     |       5.13 |    12
+('ventus', 'mare')             |       5.13 |     7
+('interrogo', 'magister')      |       5.12 |     6
+('posterus', 'dies')           |       5.12 |    13
+('immundus', 'exeo')           |       5.12 |     6
+('manus', 'aridus')            |       5.12 |     5
+('res', 'publicus')            |       5.12 |   221
+('metior', 'civitas')          |       5.11 |     5
+('pera', 'ne')                 |       5.11 |     6
+('erogo', 'ne')                |       5.11 |     5
+('petrus', 'iohannes')         |       5.11 |    20
+('herodes', 'rex')             |       5.11 |     6
+('impono', 'manus')            |       5.11 |    17
+('oro', 'mens')                |       5.11 |     6
+('sequens', 'dies')            |       5.10 |     9
+('negotium', 'conficio')       |       5.10 |     5
+('iudicium', 'generatio')      |       5.10 |     5
+('thesaurus', 'caelum')        |       5.10 |     5
+('discipulus', 'ieiuno')       |       5.09 |     5
+('honor', 'saeculum')          |       5.09 |     5
+('amen', 'generatio')          |       5.09 |     5
+('ecclesia', 'saluto')         |       5.08 |     6
+('alter', 'contemno')          |       5.07 |     5
+('apostolus', 'senex')         |       5.07 |     5
+('recipio', 'rursus')          |       5.06 |     5
+('stella', 'caelum')           |       5.05 |     8
+('quomodo', 'modo')            |       5.05 |    18
+('copia', 'educo')             |       5.05 |     5
+('discedo', 'revertor')        |       5.05 |     6
+('gloria', 'honor')            |       5.04 |     9
+('legio', 'cohors')            |       5.04 |     5
+('miles', 'centurio')          |       5.03 |     5
+('filius', 'heres')            |       5.03 |     6
+('bestia', 'ascendo')          |       5.03 |     6
+('assumo', 'iohannes')         |       5.02 |     6
+('lucius', 'legatus')          |       5.02 |     6
+('mater', 'maria')             |       5.02 |     5
+('primus', 'secundus')         |       5.01 |    12
+('mare', 'galilaea')           |       5.01 |     7
+('christus', 'timotheus')      |       5.00 |     7
+('equus', 'sedeo')             |       5.00 |     7
+('tam', 'diu')                 |       5.00 |     8
+('baptizo', 'iohannes')        |       4.99 |     9
+('invoco', 'dominus')          |       4.98 |     7
+('ariovistus', 'copia')        |       4.98 |     5
+('dormio', 'nox')              |       4.98 |     5
+('exeo', 'semino')             |       4.98 |     9
+('amicitia', 'romanus')        |       4.98 |     5
+('civis', 'romanus')           |       4.97 |     6
+('orbis', 'terra')             |       4.97 |     9
+('equitatus', 'proelium')      |       4.96 |     6
+('diligo', 'invicem')          |       4.96 |     8
+('terraemotus', 'magnus')      |       4.96 |     9
+('sigillum', 'audio')          |       4.95 |     5
+('fortis', 'dignus')           |       4.95 |     5
+('animus', 'ingenium')         |       4.95 |     5
+('morior', 'resurgo')          |       4.95 |     6
+('helvetii', 'finis')          |       4.95 |     8
+('committo', 'gero')           |       4.94 |     5
+('committo', 'proelium')       |       4.94 |     5
+('doceo', 'synagoga')          |       4.94 |     6
+('synagoga', 'iudaei')         |       4.94 |     9
+('brevis', 'tempus')           |       4.94 |    12
+('vox', 'thronus')             |       4.93 |     8
+('sedeo', 'sedes')             |       4.93 |     5
+('baptizo', 'aqua')            |       4.93 |     9
+('aqua', 'baptizo')            |       4.93 |     9
+('quintus', 'frater')          |       4.93 |    35
+('copia', 'equitatus')         |       4.93 |     7
+('consilium', 'capio')         |       4.93 |    19
+('novissimus', 'primus')       |       4.92 |    10
+('gloria', 'saeculum')         |       4.92 |    12
+('iuro', 'templum')            |       4.92 |     5
+('pater', 'absconditus')       |       4.91 |     7
+('umquam', 'tam')              |       4.90 |     5
+('primum', 'deinde')           |       4.90 |     9
+('convoco', 'discipulus')      |       4.90 |     7
+('pompeius', 'crassus')        |       4.90 |     5
+('pater', 'familia')           |       4.89 |    12
+('castra', 'passus')           |       4.89 |     6
+('summus', 'auctoritas')       |       4.88 |     7
+('solum', 'etiam')             |       4.88 |    35
+('fructus', 'affero')          |       4.88 |     9
+('levo', 'vox')                |       4.87 |     5
+('pascha', 'discipulus')       |       4.87 |     6
+('deus', 'immortalis')         |       4.86 |    13
+('praedico', 'synagoga')       |       4.86 |     5
+('moses', 'propheta')          |       4.86 |     8
+('tum', 'cum')                 |       4.86 |     9
+('sacerdos', 'praecipio')      |       4.86 |     6
+('mitto', 'gehenna')           |       4.86 |     5
+('mortuus', 'vivo')            |       4.86 |    12
+('legatus', 'obses')           |       4.85 |     5
+('cado', 'facies')             |       4.85 |     6
+('surgo', 'vado')              |       4.85 |    10
+('recordor', 'verbum')         |       4.84 |     5
+('bonus', 'thesaurus')         |       4.84 |     5
+('flumen', 'transeo')          |       4.83 |    11
+('deus', 'omnipotens')         |       4.83 |    10
+('anima', 'salvus')            |       4.83 |     7
+('medius', 'nox')              |       4.83 |    11
+('caro', 'sanguis')            |       4.83 |     8
+('palam', 'loquor')            |       4.83 |     6
+('assumo', 'petrus')           |       4.82 |     6
+('nescio', 'unde')             |       4.82 |     6
+('bellum', 'dux')              |       4.82 |     7
+('castra', 'acies')            |       4.82 |     6
+('potestas', 'bestia')         |       4.82 |     7
+('summus', 'scriba')           |       4.82 |     7
+('hierosolyma', 'iudaea')      |       4.81 |     5
+('acies', 'hostis')            |       4.81 |     7
+('percutio', 'servus')         |       4.80 |     5
+('appropinquo', 'regnum')      |       4.80 |     6
+('eo', 'castellum')            |       4.80 |     8
+('spes', 'salus')              |       4.80 |    11
+('defero', 'senatus')          |       4.80 |     6
+('pilatus', 'rex')             |       4.78 |     6
+('animus', 'perturbo')         |       4.78 |     5
+('invenio', 'dormio')          |       4.77 |     7
+('ubi', 'pascha')              |       4.77 |     5
+('pater', 'conscribo')         |       4.77 |     5
+('dignus', 'solvo')            |       4.77 |     5
+('quintus', 'lucius')          |       4.77 |     5
+('pharisaeus', 'scriba')       |       4.77 |     5
+('david', 'quomodo')           |       4.76 |     5
+('mandatum', 'diligo')         |       4.76 |     6
+('fodio', 'terra')             |       4.75 |     5
+('rex', 'iudaei')              |       4.75 |    19
+('finis', 'helvetii')          |       4.75 |     7
+('sin', 'autem')               |       4.75 |     5
+('locus', 'frigidus')          |       4.75 |    12
+('dimitto', 'peccatum')        |       4.75 |    16
+('pario', 'filius')            |       4.75 |    13
+('arma', 'contendo')           |       4.74 |     5
+('frango', 'discipulus')       |       4.73 |     8
+('littera', 'domitius')        |       4.73 |     5
+('helvetii', 'flumen')         |       4.73 |     5
+('legatus', 'pax')             |       4.73 |    10
+('vox', 'nubes')               |       4.72 |     5
+('talentum', 'accipio')        |       4.72 |     5
+('pharisaeus', 'sabbatum')     |       4.72 |     5
+('bellum', 'vinco')            |       4.72 |    12
+('filius', 'david')            |       4.72 |    19
+('trado', 'crucifigo')         |       4.72 |     6
+('arma', 'capio')              |       4.71 |     6
+('evangelium', 'praedico')     |       4.70 |     5
+('tantus', 'multitudo')        |       4.70 |     7
+('ecclesia', 'vinco')          |       4.70 |     6
+('castra', 'moveo')            |       4.68 |     8
+('bonus', 'improbus')          |       4.68 |     5
+('satis', 'arbitror')          |       4.68 |     6
+('honor', 'gloria')            |       4.68 |     7
+('assis', 'habeo')             |       4.68 |     5
+('auxilium', 'fero')           |       4.68 |    10
+('animus', 'cupiditas')        |       4.68 |     5
+('thronus', 'sedeo')           |       4.67 |     5
+('bibo', 'sanguis')            |       4.67 |     5
+('locus', 'tempero')           |       4.67 |     6
+('arbor', 'vitis')             |       4.66 |     5
+('regnum', 'possideo')         |       4.65 |     5
+('virtus', 'sapientia')        |       4.65 |     7
+('hostis', 'passus')           |       4.65 |     6
+('sol', 'os')                  |       4.65 |     5
+('verum', 'tamen')             |       4.64 |    13
+('animus', 'humanus')          |       4.63 |     5
+('peccatum', 'iustitia')       |       4.62 |     8
+('pater', 'mater')             |       4.62 |    30
+('templum', 'doceo')           |       4.62 |    10
+('malo', 'quam')               |       4.62 |    17
+('ascendo', 'navis')           |       4.61 |    11
+('nolo', 'timeo')              |       4.61 |    20
+('eo', 'epirus')               |       4.61 |     7
+('germani', 'gallia')          |       4.61 |     6
+('tertius', 'pars')            |       4.61 |    23
+('fides', 'caritas')           |       4.60 |     9
+('finitimus', 'civitas')       |       4.60 |     6
+('saluto', 'sanctus')          |       4.60 |     8
+('castra', 'educo')            |       4.59 |     5
+('ianuarius', 'locus')         |       4.59 |     6
+('servus', 'fidelis')          |       4.59 |     5
+('repleo', 'spiritus')         |       4.59 |     6
+('concilium', 'dimitto')       |       4.58 |     5
+('vivo', 'morior')             |       4.58 |    12
+('morior', 'vivo')             |       4.58 |    12
+('vero', 'suscito')            |       4.58 |     8
+('mitto', 'falx')              |       4.58 |     6
+('galilaea', 'ibi')            |       4.58 |     6
+('habito', 'hierosolyma')      |       4.58 |     5
+('pario', 'voco')              |       4.57 |     5
+('oculus', 'auris')            |       4.57 |     5
+('diligenter', 'curo')         |       4.57 |     5
+('magnitudo', 'animus')        |       4.57 |     8
+('animus', 'magnitudo')        |       4.57 |     8
+('fuga', 'recipio')            |       4.57 |     5
+('benedictus', 'dominus')      |       4.57 |     7
+('eques', 'romanus')           |       4.56 |     8
+('amen', 'apostolus')          |       4.56 |     6
+('descendo', 'caelum')         |       4.55 |    20
+('res', 'militaris')           |       4.55 |    14
+('rhenus', 'finis')            |       4.55 |     5
+('iudico', 'iudicium')         |       4.55 |    13
+('iter', 'contendo')           |       4.55 |     7
+('peccatum', 'operor')         |       4.55 |     5
+('totus', 'mens')              |       4.54 |     7
+('do', 'novembris')            |       4.54 |     5
+('primus', 'acies')            |       4.54 |     6
+('invicem', 'diligo')          |       4.54 |     6
+('frater', 'soror')            |       4.54 |    11
+('parabola', 'regnum')         |       4.54 |     5
+('similis', 'regnum')          |       4.54 |    11
+('surgo', 'ambulo')            |       4.54 |     8
+('hostis', 'impetus')          |       4.53 |     7
+('senatus', 'appello')         |       4.53 |     7
+('paulus', 'apostolus')        |       4.52 |     7
+('nolo', 'fleo')               |       4.52 |     6
+('totus', 'gallia')            |       4.52 |    14
+('postridie', 'dies')          |       4.52 |     9
+('auris', 'spiritus')          |       4.52 |    13
+('scribo', 'philotimus')       |       4.51 |     5
+('natura', 'vis')              |       4.51 |     6
+('semino', 'verbum')           |       4.51 |    10
+('occido', 'tertius')          |       4.50 |     8
+('dominus', 'invoco')          |       4.50 |     5
+('singulus', 'legatus')        |       4.50 |     5
+('introeo', 'templum')         |       4.49 |     6
+('scriba', 'occido')           |       4.49 |     5
+('navis', 'ventus')            |       4.49 |     5
+('maneo', 'aeternus')          |       4.48 |     5
+('fugio', 'mons')              |       4.48 |     5
+('amo', 'tantum')              |       4.48 |     5
+('tantum', 'amo')              |       4.48 |     5
+('lux', 'mundus')              |       4.47 |     6
+('senex', 'sacerdos')          |       4.46 |     5
+('manus', 'lavo')              |       4.46 |     5
+('appr(eh)endo', 'manus')      |       4.46 |     6
+('romanus', 'infero')          |       4.45 |     5
+('pilatus', 'dimitto')         |       4.45 |     6
+('equitatus', 'copia')         |       4.44 |     5
+('monumentum', 'pono')         |       4.44 |     8
+('finis', 'pervenio')          |       4.44 |     5
+('parum', 'facile')            |       4.44 |     5
+('pinguis', 'terra')           |       4.43 |     6
+('iter', 'helvetii')           |       4.43 |     5
+('uxor', 'duco')               |       4.43 |     8
+('quintus', 'legatus')         |       4.43 |     7
+('transeo', 'inde')            |       4.43 |     6
+('ambulo', 'caro')             |       4.43 |     7
+('laus', 'gloria')             |       4.43 |     5
+('aedui', 'finis')             |       4.42 |     6
+('valde', 'amo')               |       4.42 |     5
+('regnum', 'caelum')           |       4.41 |    35
+('fero', 'consultum')          |       4.41 |     5
+('legatus', 'mitto')           |       4.41 |    36
+('manus', 'restituo')          |       4.41 |     5
+('simon', 'iohannes')          |       4.41 |     6
+('lingua', 'loquor')           |       4.40 |    13
+('reliquus', 'fuga')           |       4.40 |     6
+('eicio', 'oculus')            |       4.39 |     6
+('vir', 'mulier')              |       4.39 |    26
+('rex', 'appello')             |       4.39 |     5
+('septimus', 'dies')           |       4.39 |     9
+('deus', 'sanctificatio')      |       4.39 |     6
+('fortasse', 'greek.expression') |       4.38 |     5
+('scandalizo', 'bonus')        |       4.38 |     6
+('quaero', 'reperio')          |       4.38 |     6
+('parabola', 'loquor')         |       4.38 |     8
+('helias', 'respondeo')        |       4.37 |     5
+('sabbatum', 'curo')           |       4.36 |     5
+('opus', 'perficio')           |       4.36 |     5
+('nisi', 'communis')           |       4.36 |     5
+('at', 'crucifigo')            |       4.36 |     5
+('iam', 'despero')             |       4.36 |     5
+('hostis', 'castra')           |       4.36 |    21
+('lucrum', 'facio')            |       4.35 |    10
+('iohannes', 'iacob')          |       4.35 |     5
+('babylon', 'magnus')          |       4.35 |     5
+('trado', 'pilatus')           |       4.35 |     5
+('rex', 'israel')              |       4.34 |     5
+('pharisaeus', 'quare')        |       4.34 |     5
+('tunc', 'assumo')             |       4.33 |     5
+('murus', 'civitas')           |       4.33 |     6
+('filius', 'sponsus')          |       4.33 |     5
+('praedico', 'regnum')         |       4.33 |    11
+('inferus', 'locus')           |       4.33 |     5
+('senex', 'sedeo')             |       4.32 |     7
+('nolo', 'ignoro')             |       4.32 |     5
+('commode', 'possum')          |       4.32 |    12
+('assumo', 'relinquo')         |       4.32 |     5
+('galli', 'bellum')            |       4.32 |     6
+('mitto', 'porcus')            |       4.32 |     5
+('gratia', 'ago')              |       4.32 |    46
+('senatus', 'consul')          |       4.31 |    13
+('tollo', 'lapis')             |       4.31 |     6
+('caesar', 'nuntius')          |       4.30 |     6
+('navis', 'longus')            |       4.30 |     5
+('daemonium', 'exeo')          |       4.30 |     7
+('doceo', 'templum')           |       4.29 |     8
+('impossibilis', 'deus')       |       4.29 |     5
+('deus', 'isaac')              |       4.29 |    10
+('isaac', 'deus')              |       4.29 |    10
+('cornu', 'nomen')             |       4.29 |     5
+('ovis', 'vox')                |       4.29 |     5
+('loquor', 'lingua')           |       4.29 |    12
+('sanctus', 'david')           |       4.29 |     6
+('tam', 'quam')                |       4.28 |    38
+('angelus', 'ecclesia')        |       4.28 |    10
+('hostis', 'fuga')             |       4.28 |     7
+('publicus', 'prosum')         |       4.27 |     6
+('discumbo', 'accipio')        |       4.27 |     6
+('epistula', 'lego')           |       4.26 |     5
+('germani', 'transeo')         |       4.26 |     5
+('aperio', 'liber')            |       4.26 |     8
+('mater', 'uxor')              |       4.26 |     5
+('porta', 'civitas')           |       4.26 |     7
+('puer', 'mater')              |       4.25 |     6
+('locus', 'umidus')            |       4.25 |     5
+('dimitto', 'uxor')            |       4.25 |     9
+('pono', 'monumentum')         |       4.25 |     7
+('veritas', 'doceo')           |       4.24 |     5
+('pilatus', 'iudaei')          |       4.24 |     5
+('audio', 'sperno')            |       4.24 |     5
+('lex', 'moses')               |       4.24 |    10
+('gratia', 'abundo')           |       4.24 |     6
+('hostis', 'pugno')            |       4.24 |     8
+('similiter', 'et')            |       4.23 |    13
+('vidua', 'mitto')             |       4.23 |     5
+('ascendo', 'descendo')        |       4.23 |     6
+('volo', 'mundo')              |       4.23 |     7
+('abeo', 'iterum')             |       4.22 |     8
+('generatio', 'quaero')        |       4.22 |     5
+('turba', 'tango')             |       4.22 |     5
+('pereo', 'novus')             |       4.22 |     6
+('ignoro', 'frater')           |       4.22 |     9
+('castra', 'hostis')           |       4.21 |    19
+('amicitia', 'populus')        |       4.21 |     5
+('senatus', 'auctoritas')      |       4.21 |     6
+('magnus', 'praemium')         |       4.21 |     7
+('summus', 'studium')          |       4.20 |     5
+('totus', 'anima')             |       4.20 |     9
+('mitto', 'carcer')            |       4.20 |    13
+('hierosolyma', 'regio')       |       4.20 |     5
+('malus', 'arbor')             |       4.20 |     7
+('arbor', 'malus')             |       4.20 |     7
+('christus', 'resurgo')        |       4.20 |    11
+('relinquo', 'lapis')          |       4.20 |     8
+('etenim', 'greek.expression') |       4.20 |     6
+('facies', 'via')              |       4.20 |     5
+('quaero', 'invenio')          |       4.20 |    26
+('nisi', 'tantum')             |       4.19 |     5
+('iustitia', 'fides')          |       4.19 |    11
+('intro', 'domus')             |       4.19 |    17
+('mitto', 'remi')              |       4.19 |     6
+('apostolus', 'propheta')      |       4.18 |     5
+('multo', 'quam')              |       4.17 |    12
+('baptizo', 'spiritus')        |       4.17 |    13
+('pilatus', 'corpus')          |       4.17 |     5
+('obses', 'do')                |       4.17 |    22
+('sapientia', 'virtus')        |       4.17 |     5
+('peccator', 'discipulus')     |       4.16 |     5
+('forte', 'invenio')           |       4.16 |     5
+('nam', 'cato')                |       4.16 |     5
+('iustus', 'iudicium')         |       4.16 |     6
+('fuga', 'peto')               |       4.16 |     5
+('locus', 'munio')             |       4.15 |     7
+('mulier', 'vir')              |       4.15 |    22
+('castra', 'contendo')         |       4.14 |     7
+('iudaei', 'interficio')       |       4.14 |     7
+('mons', 'oro')                |       4.14 |     5
+('gratia', 'frango')           |       4.14 |     5
+('caro', 'spiritus')           |       4.14 |    20
+('peccatum', 'mors')           |       4.14 |     8
+('copia', 'cogo')              |       4.14 |     5
+('mentio', 'facio')            |       4.13 |     7
+('legatus', 'legio')           |       4.13 |     6
+('respondeo', 'aio')           |       4.12 |    50
+('ecce', 'semino')             |       4.12 |     6
+('roma', 'littera')            |       4.12 |    13
+('ambulo', 'mare')             |       4.12 |     6
+('copia', 'castra')            |       4.12 |    11
+('iter', 'oppidum')            |       4.12 |     5
+('stella', 'terra')            |       4.12 |     5
+('mare', 'ascendo')            |       4.11 |     7
+('littera', 'significo')       |       4.11 |     5
+('ut', 'demonstro')            |       4.11 |     6
+('obsecro', 'frater')          |       4.11 |     5
+('multum', 'diligo')           |       4.11 |     5
+('benedictus', 'venio')        |       4.11 |     8
+('mina', 'habeo')              |       4.09 |     5
+('et', 'caelestis')            |       4.08 |     7
+('copia', 'facile')            |       4.08 |     5
+('pario', 'nomen')             |       4.08 |     5
+('oportet', 'patior')          |       4.08 |     8
+('eruptio', 'facio')           |       4.08 |     6
+('usque', 'mors')              |       4.07 |    10
+('cor', 'anima')               |       4.07 |     6
+('exeo', 'daemonium')          |       4.07 |     6
+('gens', 'lingua')             |       4.07 |     5
+('aedifico', 'domus')          |       4.07 |     7
+('manus', 'latus')             |       4.07 |     6
+('vae', 'civitas')             |       4.07 |     7
+('paucus', 'dies')             |       4.07 |    21
+('iterum', 'vado')             |       4.06 |     6
+('filius', 'parens')           |       4.06 |     7
+('baptizo', 'sanctus')         |       4.06 |     7
+('vix', 'fero')                |       4.06 |     5
+('locus', 'telum')             |       4.06 |     7
+('accipio', 'piscis')          |       4.06 |     5
+('exeo', 'inde')               |       4.06 |     7
+('fructus', 'malus')           |       4.05 |     7
+('res', 'administro')          |       4.05 |     9
+('res', 'permoveo')            |       4.05 |     6
+('filius', 'filia')            |       4.04 |     8
+('cogito', 'cor')              |       4.04 |     6
+('hierosolyma', 'templum')     |       4.04 |     8
+('constituo', 'legatus')       |       4.04 |     6
+('divido', 'pars')             |       4.04 |     8
+('epistula', 'reddo')          |       4.04 |     6
+('caelum', 'descendo')         |       4.04 |    14
+('iam', 'trimalchio')          |       4.04 |     5
+('domitius', 'greek.expression') |       4.04 |     5
+('filius', 'abraham')          |       4.03 |    12
+('pater', 'caelestis')         |       4.03 |     5
+('germani', 'finis')           |       4.03 |     5
+('numerus', 'occido')          |       4.03 |     6
+('fides', 'salvus')            |       4.03 |     9
+('templum', 'sacerdos')        |       4.02 |     6
+('immundus', 'spiritus')       |       4.02 |     5
+('exeo', 'monumentum')         |       4.02 |     5
+('hic', 'surgo')               |       4.02 |     5
+('salvus', 'fio')              |       4.01 |    15
+('ut', 'supra')                |       4.01 |     6
+('senex', 'princeps')          |       4.01 |     6
+('ascendo', 'mons')            |       4.01 |     5
+('equitatus', 'hostis')        |       4.01 |     6
+('littera', 'roma')            |       4.01 |    12
+('pater', 'abraham')           |       4.01 |    11
+('hostis', 'proelium')         |       4.01 |    10
+('descendo', 'maneo')          |       4.00 |     5
+('ergo', 'pontifex')           |       4.00 |     6
+('david', 'voco')              |       4.00 |     5
+('subsidium', 'mitto')         |       3.99 |     5
+('filius', 'revelo')           |       3.99 |     5
+('panis', 'descendo')          |       3.99 |     5
+('suscito', 'frater')          |       3.99 |     7
+('discipulus', 'dormio')       |       3.99 |     5
+('spes', 'studium')            |       3.99 |     5
+('sto', 'mare')                |       3.98 |    10
+('angelus', 'fortis')          |       3.98 |     5
+('iacob', 'frater')            |       3.98 |    11
+('ecce', 'hic')                |       3.98 |     9
+('accedo', 'pharisaeus')       |       3.98 |     6
+('abundo', 'gratia')           |       3.97 |     5
+('exclamo', 'magnus')          |       3.97 |     7
+('princeps', 'daemonium')      |       3.97 |     5
+('christus', 'crucifigo')      |       3.97 |     9
+('ago', 'frango')              |       3.96 |     6
+('evangelium', 'christus')     |       3.96 |    12
+('spatium', 'pes')             |       3.96 |     5
+('spes', 'adduco')             |       3.96 |     6
+('surgo', 'mortuus')           |       3.96 |     6
+('quidem', 'certe')            |       3.96 |     6
+('iesus', 'timotheus')         |       3.95 |     7
+('caro', 'peccatum')           |       3.95 |     6
+
+============================================================
+TOP FREQUENT PAIRS (Raw Count)
+------------------------------------------------------------
+Pair                           | Count
+------------------------------------------------------------
+('autem', 'dico')              |   317
+('dico', 'non')                |   307
+('autem', 'non')               |   251
+('non', 'possum')              |   239
+('dico', 'autem')              |   232
+('non', 'enim')                |   225
+('res', 'publicus')            |   221
+('iesus', 'dico')              |   215
+('non', 'autem')               |   199
+('non', 'dico')                |   193
+('dico', 'facio')              |   189
+('dico', 'dominus')            |   187
+('dico', 'iesus')              |   174
+('non', 'habeo')               |   174
+('respondeo', 'dico')          |   160
+('facio', 'autem')             |   151
+('deus', 'autem')              |   151
+('non', 'ne')                  |   147
+('deus', 'non')                |   139
+('non', 'video')               |   138
+('non', 'facio')               |   137
+('dico', 'venio')              |   128
+('dico', 'deus')               |   128
+('facio', 'non')               |   127
+('enim', 'non')                |   126
+('dico', 'video')              |   123
+('autem', 'facio')             |   123
+('dominus', 'iesus')           |   123
+('video', 'dico')              |   121
+('facio', 'dico')              |   119
+('dico', 'ergo')               |   119
+('iesus', 'christus')          |   119
+('iesus', 'autem')             |   117
+('autem', 'et')                |   116
+('non', 'deus')                |   113
+('deus', 'dico')               |   108
+('audio', 'dico')              |   105
+('video', 'non')               |   105
+('amen', 'dico')               |   103
+('habeo', 'non')               |   103
+('dico', 'homo')               |   100
+('autem', 'iesus')             |   100
+('dico', 'filius')             |    99
+('venio', 'dico')              |    98
+('dico', 'enim')               |    97
+('non', 'venio')               |    96
+('habeo', 'dico')              |    92
+('filius', 'homo')             |    91
+('autem', 'deus')              |    91
+('video', 'autem')             |    90
+('habeo', 'autem')             |    89
+('autem', 'venio')             |    89
+('autem', 'video')             |    89
+('deus', 'iesus')              |    88
+('autem', 'dominus')           |    88
+('enim', 'deus')               |    87
+('autem', 'habeo')             |    86
+('respondeo', 'iesus')         |    86
+('discipulus', 'dico')         |    84
+('dominus', 'dico')            |    82
+('deus', 'enim')               |    81
+('non', 'etiam')               |    81
+('dico', 'habeo')              |    80
+('ergo', 'dico')               |    80
+('at', 'dico')                 |    80
+('autem', 'dies')              |    80
+('populus', 'romanus')         |    79
+('spiritus', 'sanctus')        |    79
+('christus', 'iesus')          |    79
+('iesus', 'non')               |    77
+('homo', 'non')                |    76
+('venio', 'autem')             |    75
+('venio', 'non')               |    75
+('do', 'non')                  |    75
+('non', 'credo')               |    75
+('non', 'homo')                |    74
+('deus', 'christus')           |    74
+('scribo', 'non')              |    72
+('non', 'do')                  |    72
+('regnum', 'deus')             |    71
+('homo', 'dico')               |    70
+('autem', 'homo')              |    70
+('ne', 'quidem')               |    70
+('dominus', 'christus')        |    70
+('dico', 'possum')             |    69
+('enim', 'autem')              |    69
+('christus', 'deus')           |    69
+('enim', 'dico')               |    68
+('possum', 'non')              |    68
+('ne', 'possum')               |    67
+('autem', 'frater')            |    67
+('dico', 'ecce')               |    67
+('dominus', 'non')             |    67
+('deus', 'facio')              |    66
+('facio', 'iesus')             |    65
+('ne', 'enim')                 |    65
+('sicut', 'et')                |    64
+('dies', 'non')                |    64
+('magnus', 'dico')             |    63
+('princeps', 'sacerdos')       |    63
+('iam', 'non')                 |    63
+('iesus', 'deus')              |    63
+('mitto', 'dico')              |    62
+('vox', 'dico')                |    62
+('dico', 'respondeo')          |    62
+('filius', 'deus')             |    62
+('venio', 'video')             |    61
+('homo', 'autem')              |    61
+('et', 'non')                  |    61
+('dico', 'do')                 |    60
+('enim', 'facio')              |    60
+('video', 'enim')              |    60
+('audio', 'autem')             |    60
+('dominus', 'autem')           |    60
+('multus', 'autem')            |    60
+('non', 'audio')               |    60
+('gratia', 'deus')             |    60
+('dico', 'et')                 |    59
+('audio', 'non')               |    59
+('christus', 'non')            |    59
+('interrogo', 'dico')          |    58
+('vox', 'magnus')              |    58
+('multus', 'dico')             |    58
+('pater', 'dico')              |    57
+('autem', 'multus')            |    57
+('dico', 'volo')               |    56
+('video', 'audio')             |    56
+('dico', 'scio')               |    56
+('ergo', 'iesus')              |    56
+('non', 'solum')               |    56
+('non', 'modo')                |    56
+('aio', 'dico')                |    55
+('dico', 'pater')              |    55
+('christus', 'autem')          |    55
+('dominus', 'deus')            |    55
+('filius', 'autem')            |    55
+('facio', 'et')                |    54
+('deus', 'pater')              |    54
+('facio', 'dies')              |    53
+('facio', 'deus')              |    53
+('video', 'facio')             |    53
+('do', 'dico')                 |    53
+('enim', 'homo')               |    53
+('autem', 'spiritus')          |    53
+('petrus', 'dico')             |    53
+('facio', 'homo')              |    52
+('autem', 'aio')               |    52
+('dico', 'discipulus')         |    52
+('non', 'pater')               |    52
+('enim', 'habeo')              |    52
+('facio', 'venio')             |    51
+('dico', 'audio')              |    51
+('loquor', 'dico')             |    51
+('res', 'non')                 |    51
+('verbum', 'deus')             |    50
+('possum', 'dico')             |    50
+('et', 'dico')                 |    50
+('venio', 'iesus')             |    50
+('filius', 'dico')             |    50
+('homo', 'deus')               |    50
+('respondeo', 'aio')           |    50
+('non', 'ergo')                |    50
+('non', 'res')                 |    50
+('quidem', 'autem')            |    49
+('iesus', 'aio')               |    49
+('ne', 'non')                  |    49
+('non', 'scio')                |    49
+('non', 'volo')                |    49
+('non', 'scribo')              |    49
+('non', 'quam')                |    49
+('tunc', 'dico')               |    48
+('dies', 'dico')               |    48
+('caelum', 'terra')            |    48
+('ne', 'dico')                 |    48
+('dies', 'autem')              |    48
+('dico', 'credo')              |    48
+('non', 'magnus')              |    48
+('magnus', 'habeo')            |    47
+('iesus', 'video')             |    47
+('deus', 'homo')               |    47
+('facio', 'magnus')            |    46
+('possum', 'ne')               |    46
+('audio', 'vox')               |    46
+('testimonium', 'perhibeo')    |    46
+('gratia', 'ago')              |    46
+('video', 'venio')             |    46
+('autem', 'audio')             |    46
+('non', 'accipio')             |    46
+('non', 'et')                  |    46
+('possum', 'autem')            |    46
+('iesus', 'venio')             |    45
+('credo', 'non')               |    45
+('ut', 'scribo')               |    45
+('video', 'homo')              |    44
+('dico', 'ne')                 |    44
+('dico', 'magnus')             |    44
+('habeo', 'ne')                |    44
+('deus', 'do')                 |    44
+('scio', 'dico')               |    44
+('respondeo', 'autem')         |    44
+('autem', 'volo')              |    44
+('non', 'iesus')               |    44
+('loquor', 'autem')            |    44
+('et', 'autem')                |    44
+('autem', 'christus')          |    44
+('et', 'deus')                 |    44
+('deus', 'dominus')            |    44
+('lex', 'non')                 |    44
+('volo', 'dico')               |    43
+('dico', 'mitto')              |    43
+('dico', 'propheta')           |    43
+('venio', 'facio')             |    43
+('mitto', 'non')               |    43
+('dico', 'amen')               |    43
+('dico', 'multus')             |    43
+('non', 'multus')              |    43
+('volo', 'non')                |    43
+('pater', 'non')               |    43
+('enim', 'ne')                 |    43
+('magis', 'quam')              |    43
+('facio', 'habeo')             |    42
+('possum', 'res')              |    42
+('facio', 'video')             |    42
+('habeo', 'deus')              |    42
+('homo', 'facio')              |    42
+('res', 'magnus')              |    42
+('salvus', 'facio')            |    42
+('filius', 'non')              |    42
+('dominus', 'facio')           |    42
+('ergo', 'non')                |    42
+('non', 'invenio')             |    42
+('video', 'iesus')             |    42
+('autem', 'mitto')             |    42
+('do', 'autem')                |    42
+('nunc', 'autem')              |    42
+('mundus', 'non')              |    42
+('volo', 'facio')              |    41
+('clamo', 'dico')              |    41
+('caelum', 'dico')             |    41
+('turba', 'dico')              |    41
+('bonus', 'facio')             |    41
+('dies', 'venio')              |    41
+('homo', 'habeo')              |    41
+('accedo', 'dico')             |    41
+('non', 'cognosco')            |    41
+('dico', 'dies')               |    41
+('autem', 'discipulus')        |    41
+('credo', 'dico')              |    41
+('non', 'loquor')              |    41
+('autem', 'scio')              |    41
+('non', 'tamen')               |    41
+('video', 'multus')            |    40
+('spiritus', 'dico')           |    40
+('propheta', 'dico')           |    40
+('respondeo', 'non')           |    40
+('dico', 'frater')             |    40
+('bonus', 'non')               |    40
+('spiritus', 'non')            |    40
+('autem', 'do')                |    40
+('enim', 'video')              |    40
+('nam', 'non')                 |    40
+('possum', 'facio')            |    39
+('ita', 'et')                  |    39
+('et', 'facio')                |    39
+('iesus', 'facio')             |    39
+('accipio', 'non')             |    39
+('non', 'bonus')               |    39
+('scribo', 'enim')             |    39
+('non', 'dominus')             |    39
+('dico', 'vado')               |    39
+('facio', 'enim')              |    39
+('scio', 'autem')              |    39
+('multus', 'non')              |    39
+('non', 'lex')                 |    39
+('dico', 'aio')                |    39
+('facio', 'possum')            |    38
+('habeo', 'audio')             |    38
+('deus', 'filius')             |    38
+('tam', 'quam')                |    38
+('audio', 'video')             |    38
+('do', 'facio')                |    38
+('frater', 'autem')            |    38
+('facio', 'dominus')           |    38
+('dico', 'surgo')              |    38
+('iesus', 'amen')              |    38
+('autem', 'enim')              |    38
+('quaero', 'non')              |    38
+('dico', 'at')                 |    38
+('possum', 'enim')             |    38
+('do', 'habeo')                |    37
+('dico', 'exeo')               |    37
+('gigno', 'autem')             |    37
+('autem', 'gigno')             |    37
+('nomen', 'iesus')             |    37
+('frater', 'non')              |    37
+('venio', 'dominus')           |    37
+('non', 'mitto')               |    37
+('dies', 'facio')              |    37
+('tamen', 'non')               |    37
+('magnus', 'facio')            |    36
+('auris', 'audio')             |    36
+('dico', 'accipio')            |    36
+('dico', 'caelum')             |    36
+('deus', 'audio')              |    36
+('video', 'ne')                |    36
+('audio', 'verbum')            |    36
+('habeo', 'res')               |    36
+('legatus', 'mitto')           |    36
+('spiritus', 'autem')          |    36
+('autem', 'magnus')            |    36
+('deus', 'venio')              |    36
+('multus', 'quam')             |    36
+('verbum', 'non')              |    36
+('iesus', 'discipulus')        |    36
+('loquor', 'non')              |    36
+('dico', 'christus')           |    36
+('sicut', 'dico')              |    36
+('non', 'sicut')               |    36
+('non', 'puto')                |    36
+('ut', 'video')                |    36
+('senatus', 'consultum')       |    35
+('quintus', 'frater')          |    35
+('iter', 'facio')              |    35
+('solum', 'etiam')             |    35
+('res', 'scribo')              |    35
+('autem', 'filius')            |    35
+('regnum', 'caelum')           |    35
+('pharisaeus', 'dico')         |    35
+('enim', 'possum')             |    35
+('spiritus', 'deus')           |    35
+('fio', 'non')                 |    35
+('autem', 'pater')             |    35
+('magnus', 'autem')            |    35
+('manduco', 'dico')            |    35
+('autem', 'petrus')            |    35
+('non', 'manduco')             |    35
+('vita', 'aeternus')           |    35
+('credo', 'autem')             |    35
+('ago', 'non')                 |    35
+('cum', 'tum')                 |    35
+('facio', 'scio')              |    34
+('video', 'habeo')             |    34
+('ne', 'habeo')                |    34
+('gratia', 'dominus')          |    34
+('dico', 'nolo')               |    34
+('non', 'filius')              |    34
+('aio', 'iesus')               |    34
+('pater', 'autem')             |    34
+('pater', 'iesus')             |    34
+('homo', 'enim')               |    34
+('multus', 'facio')            |    34
+('invenio', 'dico')            |    34
+('tempus', 'non')              |    34
+('sicut', 'non')               |    34
+('dico', 'petrus')             |    34
+('pater', 'filius')            |    34
+('scio', 'non')                |    34
+('autem', 'verbum')            |    34
+('non', 'dies')                |    34
+('autem', 'paulus')            |    34
+('audio', 'facio')             |    33
+('video', 'res')               |    33
+('multus', 'res')              |    33
+('res', 'facio')               |    33
+('magnus', 'res')              |    33
+('video', 'magnus')            |    33
+('angelus', 'dico')            |    33
+('habeo', 'video')             |    33
+('habeo', 'do')                |    33
+('dico', 'eo')                 |    33
+('iesus', 'dominus')           |    33
+('quam', 'non')                |    33
+('non', 'intellego')           |    33
+('potius', 'quam')             |    33
+('non', 'nam')                 |    33
+('greek.expression', 'enim')   |    33
+('quare', 're')                |    33
+('dico', 'spiritus')           |    32
+('res', 'ne')                  |    32
+('possum', 'video')            |    32
+('dico', 'loquor')             |    32
+('ne', 'res')                  |    32
+('facio', 'res')               |    32
+('dominus', 'venio')           |    32
+('facio', 'mitto')             |    32
+('ut', 'dico')                 |    32
+('multus', 'venio')            |    32
+('amen', 'non')                |    32
+('discipulus', 'autem')        |    32
+('venio', 'dies')              |    32
+('venio', 'enim')              |    32
+('manduco', 'bibo')            |    32
+('dico', 'magister')           |    32
+('enim', 'christus')           |    32
+('sicut', 'scribo')            |    32
+('deus', 'spiritus')           |    32
+('dico', 'vir')                |    32
+('habeo', 'venio')             |    31
+('dico', 'regnum')             |    31
+('deus', 'habeo')              |    31
+('iterum', 'dico')             |    31
+('res', 'habeo')               |    31
+('res', 'video')               |    31
+('mitto', 'venio')             |    31
+('venio', 'invenio')           |    31
+('iesus', 'ergo')              |    31
+('dico', 'iudaei')             |    31
+('enim', 'venio')              |    31
+('habeo', 'enim')              |    31
+('fio', 'dico')                |    31
+('non', 'iudico')              |    31
+('et', 'enim')                 |    31
+('facio', 'pater')             |    31
+('verbum', 'autem')            |    31
+('eo', 'autem')                |    31
+('et', 'iesus')                |    31
+('sicut', 'autem')             |    31
+('non', 'verbum')              |    31
+('non', 'respondeo')           |    31
+('enim', 'iesus')              |    31
+('habeo', 'iesus')             |    31
+('scribo', 'video')            |    30
+('deus', 'video')              |    30
+('video', 'deus')              |    30
+('fio', 'possum')              |    30
+('modo', 'etiam')              |    30
+('video', 'possum')            |    30
+('res', 'gero')                |    30
+('tribunus', 'plebs')          |    30
+('quam', 'res')                |    30
+('dico', 'etiam')              |    30
+('volo', 'autem')              |    30
+('simon', 'petrus')            |    30
+('facio', 'multus')            |    30
+('accipio', 'autem')           |    30
+('dico', 'dimitto')            |    30
+('autem', 'princeps')          |    30
+('pater', 'mater')             |    30
+('multus', 'enim')             |    30
+('non', 'licet')               |    30
+('autem', 'credo')             |    30
+('non', 'ita')                 |    30
+('facio', 'respondeo')         |    30
+('ut', 'non')                  |    30
+('littera', 'do')              |    30
+('habeo', 'possum')            |    29
+('res', 'possum')              |    29
+('venio', 'habeo')             |    29
+('deus', 'ne')                 |    29
+('nomen', 'dico')              |    29
+('scribo', 'dico')             |    29
+('verbum', 'dico')             |    29
+('dico', 'fio')                |    29
+('res', 'caesar')              |    29
+('dico', 'verbum')             |    29
+('magnus', 'pars')             |    29
+('do', 'deus')                 |    29
+('oculus', 'video')            |    29
+('pater', 'deus')              |    29
+('autem', 'sicut')             |    29
+('deus', 'sicut')              |    29
+('aio', 'non')                 |    29
+('non', 'frater')              |    29
+('domus', 'non')               |    29
+('aio', 'dominus')             |    29
+('dico', 'quidem')             |    29
+('sto', 'dico')                |    29
+('eo', 'non')                  |    29
+('autem', 'fio')               |    29
+('non', 'mundus')              |    29
+('vero', 'non')                |    29
+('fio', 'autem')               |    29
+('locus', 'ubi')               |    29
+('iudaei', 'autem')            |    29
+('ut', 'facio')                |    29
+('non', 'tempus')              |    29
+('non', 'locus')               |    29
+('non', 'ut')                  |    29
+('mehercule', 'hercule')       |    29
+('magnus', 'numerus')          |    29
+('dies', 'nox')                |    28
+('dico', 'bonus')              |    28
+('venio', 'ergo')              |    28
+('facio', 'volo')              |    28
+('habeo', 'magnus')            |    28
+('venio', 'audio')             |    28
+('possum', 'quam')             |    28
+('venio', 'ne')                |    28
+('ne', 'facio')                |    28
+('res', 'ago')                 |    28
+('eo', 'dico')                 |    28
+('opus', 'facio')              |    28
+('facio', 'do')                |    28
+('regnum', 'dico')             |    28
+('iohannes', 'dico')           |    28
+('coepi', 'dico')              |    28
+('turba', 'multus')            |    28
+('filius', 'pater')            |    28
+('audio', 'iesus')             |    28
+('non', 'opus')                |    28
+('enim', 'pater')              |    28
+('non', 'nisi')                |    28
+('dico', 'numquid')            |    28
+('habeo', 'multus')            |    28
+('non', 'eo')                  |    28
+('discipulus', 'iesus')        |    28
+('non', 'caro')                |    28
+('ita', 'non')                 |    28
+('aio', 'autem')               |    28
+('iudaei', 'dico')             |    28
+('scio', 'enim')               |    28
+('autem', 'iudaei')            |    28
+('enim', 'res')                |    28
+('habeo', 'scribo')            |    27
+('bellum', 'gero')             |    27
+('dico', 'iam')                |    27
+('pater', 'do')                |    27
+('dico', 'vox')                |    27
+('dico', 'turba')              |    27
+('volo', 'possum')             |    27
+('facio', 'ne')                |    27
+('dico', 'scribo')             |    27
+('iesus', 'filius')            |    27
+('filius', 'iesus')            |    27
+('peccatum', 'autem')          |    27
+('ecce', 'venio')              |    27
+('nolo', 'enim')               |    27
+('iudico', 'non')              |    27
+('autem', 'turba')             |    27
+('facio', 'audio')             |    27
+('sequor', 'dico')             |    27
+('filius', 'venio')            |    27
+('venio', 'discipulus')        |    27
+('non', 'spiritus')            |    27
+('homo', 'ne')                 |    27
+('sicut', 'pater')             |    27
+('autem', 'loquor')            |    27
+('locus', 'non')               |    27
+('enim', 'do')                 |    27
+('autem', 'bonus')             |    27
+('autem', 'respondeo')         |    27
+('enim', 'volo')               |    27
+('nomen', 'dominus')           |    27
+('dico', 'quomodo')            |    27
+('ergo', 'video')              |    27
+('scribo', 'autem')            |    27
+('etiam', 'non')               |    27
+('sermo', 'non')               |    27
+('audio', 'venio')             |    27
+('volo', 'scribo')             |    27
+('ne', 'video')                |    27
+('non', 'debeo')               |    27
+('deus', 'gratia')             |    27
+('res', 'quam')                |    27
+('greek.expression', 'non')    |    27
+('dico', 'nunc')               |    26
+('quaero', 'invenio')          |    26
+('habeo', 'spiritus')          |    26
+('caelum', 'homo')             |    26
+('ne', 'do')                   |    26
+('dico', 'mulier')             |    26
+('fero', 'possum')             |    26
+('venio', 'hora')              |    26
+('domus', 'dico')              |    26
+('ita', 'facio')               |    26
+('vir', 'mulier')              |    26
+('deus', 'et')                 |    26
+('autem', 'vir')               |    26
+('dimitto', 'autem')           |    26
+('ergo', 'facio')              |    26
+('caelum', 'autem')            |    26
+('aio', 'facio')               |    26
+('enim', 'lex')                |    26
+('autem', 'cognosco')          |    26
+('bonus', 'autem')             |    26
+('domus', 'autem')             |    26
+('autem', 'ergo')              |    26
+('discipulus', 'venio')        |    26
+('dico', 'iohannes')           |    26
+('autem', 'vero')              |    26
+('autem', 'tempus')            |    26
+('magnus', 'non')              |    26
+('quidem', 'non')              |    26
+('autem', 'ne')                |    26
+('non', 'quidem')              |    26
+('enim', 'dominus')            |    26
+('autem', 'fides')             |    26
+('non', 'ample')               |    26
+('deus', 'ergo')               |    26
+('ergo', 'iudaei')             |    26
+('mitto', 'autem')             |    26
+('non', 'christus')            |    26
+('autem', 'scribo')            |    26
+('nunc', 'non')                |    26
+('non', 'quaero')              |    26
+('video', 'quam')              |    26
+('littera', 'mitto')           |    26
+('volo', 'res')                |    25
+('homo', 'video')              |    25
+('do', 'accipio')              |    25
+('servus', 'dominus')          |    25
+('potestas', 'habeo')          |    25
+('habeo', 'facio')             |    25
+('magnus', 'video')            |    25
+('habeo', 'potestas')          |    25
+('quam', 'video')              |    25
+('homo', 'possum')             |    25
+('volo', 'venio')              |    25
+('res', 'causa')               |    25
+('scribo', 'res')              |    25
+('bonus', 'malus')             |    25
+('caesar', 'facio')            |    25
+('miror', 'dico')              |    25
+('servus', 'facio')            |    25
+('scio', 'facio')              |    25
+('dico', 'ubi')                |    25
+('christus', 'dico')           |    25
+('enim', 'scribo')             |    25
+('dico', 'quaero')             |    25
+('ecce', 'dico')               |    25
+('dico', 'domus')              |    25
+('nam', 'et')                  |    25
+('iesus', 'credo')             |    25
+('multus', 'habeo')            |    25
+('do', 'potestas')             |    25
+('dico', 'quare')              |    25
+('discipulus', 'non')          |    25
+('autem', 'domus')             |    25
+('ergo', 'dominus')            |    25
+('corpus', 'non')              |    25
+('terra', 'non')               |    25
+('autem', 'mulier')            |    25
+('fides', 'non')               |    25
+('quare', 'non')               |    25
+('enim', 'multus')             |    25
+('dico', 'nescio')             |    25
+('non', 'fio')                 |    25
+('mitto', 'facio')             |    25
+('scio', 'deus')               |    25
+('facio', 'quam')              |    25
+('enim', 'et')                 |    25
+('non', 'nunc')                |    25
+('dominus', 'spiritus')        |    25
+('gloria', 'deus')             |    25
+('iesus', 'gratia')            |    25
+('lex', 'deus')                |    25
+('certus', 'facio')            |    25
+('littera', 'scribo')          |    25
+('greek.expression', 'video')  |    25
+('res', 'ut')                  |    25
+('caesar', 'res')              |    24
+('magnus', 'quam')             |    24
+('scribo', 'do')               |    24
+('dico', 'sic')                |    24
+('ne', 'audio')                |    24
+('video', 'caelum')            |    24
+('facio', 'caelum')            |    24
+('video', 'scribo')            |    24
+('homo', 'pater')              |    24
+('venio', 'mitto')             |    24
+('deus', 'possum')             |    24
+('accipio', 'dico')            |    24
+('gratia', 'christus')         |    24
+('autem', 'sic')               |    24
+('civitas', 'dico')            |    24
+('pono', 'non')                |    24
+('pater', 'caelum')            |    24
+('iesus', 'habeo')             |    24
+('dimitto', 'dico')            |    24
+('non', 'morior')              |    24
+('enim', 'loquor')             |    24
+('facio', 'ut')                |    24
+('quaero', 'dico')             |    24
+('caelum', 'non')              |    24
+('pono', 'autem')              |    24
+('non', 'oportet')             |    24
+('ergo', 'deus')               |    24
+('autem', 'accipio')           |    24
+('lex', 'autem')               |    24
+('credo', 'enim')              |    24
+('credo', 'deus')              |    24
+('fero', 'non')                |    24
+('christus', 'dominus')        |    24
+('scribo', 'habeo')            |    24
+('et', 'christus')             |    24
+('non', 'tam')                 |    24
+('bellum', 'infero')           |    23
+('facio', 'frater')            |    23
+('possum', 'etiam')            |    23
+('potestas', 'facio')          |    23
+('res', 'consilium')           |    23
+('habeo', 'auris')             |    23
+('habeo', 'et')                |    23
+('scio', 'venio')              |    23
+('dico', 'sedeo')              |    23
+('video', 'sedeo')             |    23
+('vox', 'caelum')              |    23
+('magnus', 'caelum')           |    23
+('dico', 'angelus')            |    23
+('tertius', 'pars')            |    23
+('facio', 'terra')             |    23
+('dico', 'oportet')            |    23
+('ne', 'deus')                 |    23
+('facio', 'bonus')             |    23
+('do', 'ne')                   |    23
+('dico', 'res')                |    23
+('ita', 'dico')                |    23
+('quam', 'habeo')              |    23
+('ne', 'scio')                 |    23
+('facio', 'eo')                |    23
+('gratia', 'iesus')            |    23
+('autem', 'nolo')              |    23
+('autem', 'ecce')              |    23
+('enim', 'spiritus')           |    23
+('autem', 'voco')              |    23
+('autem', 'nomen')             |    23
+('facio', 'sicut')             |    23
+('dico', 'mater')              |    23
+('voco', 'dico')               |    23
+('voco', 'autem')              |    23
+('iohannes', 'autem')          |    23
+('quomodo', 'dico')            |    23
+('facio', 'lex')               |    23
+('princeps', 'dico')           |    23
+('do', 'enim')                 |    23
+('autem', 'possum')            |    23
+('multus', 'scribo')           |    23
+('non', 'ago')                 |    23
+('usque', 'dies')              |    23
+('enim', 'filius')             |    23
+('manus', 'autem')             |    23
+('sacerdos', 'senex')          |    23
+('sacerdos', 'dico')           |    23
+('cognosco', 'autem')          |    23
+('non', 'relinquo')            |    23
+('non', 'nosco')               |    23
+('frater', 'deus')             |    23
+('magis', 'autem')             |    23
+('dies', 'caesar')             |    23
+('frater', 'dominus')          |    23
+('ecclesia', 'deus')           |    23
+('paulus', 'dico')             |    23
+('modus', 'non')               |    23
+('ago', 'deus')                |    23
+('non', 'dubito')              |    23
+('do', 'littera')              |    23
+('dominus', 'video')           |    22
+('dico', 'potestas')           |    22
+('accipio', 'do')              |    22
+('paenitentia', 'ago')         |    22
+('venio', 'do')                |    22
+('terra', 'caelum')            |    22
+('adoro', 'dico')              |    22
+('signum', 'facio')            |    22
+('dico', 'timeo')              |    22
+('dico', 'sanctus')            |    22
+('sanctus', 'deus')            |    22
+('exeo', 'dico')               |    22
+('dies', 'video')              |    22
+('magnus', 'homo')             |    22
+('bonus', 'homo')              |    22
+('ago', 'facio')               |    22
+('facio', 'civitas')           |    22
+('locus', 'dico')              |    22
+('virtus', 'deus')             |    22
+('possum', 'habeo')            |    22
+('ne', 'homo')                 |    22
+('et', 'video')                |    22
+('iesus', 'enim')              |    22
+('dico', 'rex')                |    22
+('sacerdos', 'scriba')         |    22
+('autem', 'iohannes')          |    22
+('iesus', 'spiritus')          |    22
+('venio', 'homo')              |    22
+('iesus', 'respondeo')         |    22
+('fides', 'autem')             |    22
+('autem', 'dimitto')           |    22
+('scio', 'homo')               |    22
+('autem', 'simon')             |    22
+('nomen', 'non')               |    22
+('scio', 'volo')               |    22
+('dominus', 'enim')            |    22
+('dies', 'iesus')              |    22
+('regnum', 'non')              |    22
+('homo', 'venio')              |    22
+('ergo', 'autem')              |    22
+('non', 'domus')               |    22
+('manduco', 'non')             |    22
+('pater', 'facio')             |    22
+('testimonium', 'non')         |    22
+('manus', 'non')               |    22
+('non', 'sic')                 |    22
+('facio', 'filius')            |    22
+('non', 'voluntas')            |    22
+('sic', 'non')                 |    22
+('dominus', 'habeo')           |    22
+('ergo', 'venio')              |    22
+('opus', 'autem')              |    22
+('venio', 'nomen')             |    22
+('enim', 'magnus')             |    22
+('dico', 'servus')             |    22
+('eo', 'venio')                |    22
+('peccatum', 'non')            |    22
+('petrus', 'autem')            |    22
+('filius', 'facio')            |    22
+('iudaei', 'non')              |    22
+('dies', 'festus')             |    22
+('christus', 'facio')          |    22
+('autem', 'lex')               |    22
+('non', 'pars')                |    22
+('mulier', 'vir')              |    22
+('littera', 'non')             |    22
+('do', 'scribo')               |    22
+('quam', 'possum')             |    22
+('obses', 'do')                |    22
+('causa', 'dico')              |    21
+('possum', 'venio')            |    21
+('habeo', 'volo')              |    21
+('consilium', 'res')           |    21
+('templum', 'deus')            |    21
+('quam', 'scribo')             |    21
+('quidem', 'res')              |    21
+('volo', 'scio')               |    21
+('scio', 'habeo')              |    21
+('habeo', 'nomen')             |    21
+('ita', 'habeo')               |    21
+('venio', 'pater')             |    21
+('et', 'pater')                |    21
+('deus', 'dies')               |    21
+('dico', 'nomen')              |    21
+('scribo', 'venio')            |    21
+('dico', 'civitas')            |    21
+('dico', 'iterum')             |    21
+('do', 'venio')                |    21
+('deus', 'loquor')             |    21
+('etiam', 'res')               |    21
+('etiam', 'dico')              |    21
+('homo', 'bonus')              |    21
+('dico', 'caesar')             |    21
+('filius', 'enim')             |    21
+('autem', 'hierosolyma')       |    21
+('terra', 'autem')             |    21
+('non', 'dignus')              |    21
+('deus', 'mitto')              |    21
+('cognosco', 'dico')           |    21
+('surgo', 'autem')             |    21
+('facio', 'ita')               |    21
+('dico', 'ut')                 |    21
+('at', 'aio')                  |    21
+('iesus', 'scio')              |    21
+('iesus', 'pater')             |    21
+('pater', 'dominus')           |    21
+('enim', 'tempus')             |    21
+('manduco', 'autem')           |    21
+('enim', 'dies')               |    21
+('ubi', 'non')                 |    21
+('invenio', 'autem')           |    21
+('video', 'filius')            |    21
+('fio', 'enim')                |    21
+('video', 'fio')               |    21
+('vita', 'autem')              |    21
+('autem', 'sacerdos')          |    21
+('caesar', 'non')              |    21
+('autem', 'sto')               |    21
+('ne', 'autem')                |    21
+('audio', 'deus')              |    21
+('quam', 'facio')              |    21
+('scribo', 'facio')            |    21
+('ergo', 'discipulus')         |    21
+('deus', 'scio')               |    21
+('christus', 'gratia')         |    21
+('pater', 'christus')          |    21
+('volo', 'ne')                 |    21
+('quidem', 'possum')           |    21
+('paucus', 'dies')             |    21
+('ut', 'res')                  |    21
+('ago', 'res')                 |    21
+('res', 'enim')                |    21
+('caesar', 'mitto')            |    21
+('hostis', 'castra')           |    21
+('multus', 'possum')           |    20
+('respondeo', 'dominus')       |    20
+('pater', 'habeo')             |    20
+('possum', 'magnus')           |    20
+('malus', 'facio')             |    20
+('dico', 'locus')              |    20
+('dico', 'ecclesia')           |    20
+('nomen', 'habeo')             |    20
+('volo', 'habeo')              |    20
+('venio', 'accipio')           |    20
+('angelus', 'habeo')           |    20
+('video', 'angelus')           |    20
+('dico', 'aperio')             |    20
+('clamo', 'vox')               |    20
+('video', 'sto')               |    20
+('medius', 'dico')             |    20
+('dico', 'sto')                |    20
+('manus', 'dico')              |    20
+('terra', 'facio')             |    20
+('spiritus', 'immundus')       |    20
+('vox', 'audio')               |    20
+('descendo', 'caelum')         |    20
+('facio', 'caesar')            |    20
+('magnus', 'animus')           |    20
+('res', 'etiam')               |    20
+('ne', 'venio')                |    20
+('mitto', 'res')               |    20
+('eo', 'magis')                |    20
+('venio', 'volo')              |    20
+('dico', 'invenio')            |    20
+('dico', 'fides')              |    20
+('dico', 'david')              |    20
+('nolo', 'timeo')              |    20
+('populus', 'autem')           |    20
+('dico', 'voco')               |    20
+('autem', 'pharisaeus')        |    20
+('facio', 'ergo')              |    20
+('tunc', 'iesus')              |    20
+('autem', 'ascendo')           |    20
+('oculus', 'dico')             |    20
+('non', 'intro')               |    20
+('turba', 'autem')             |    20
+('et', 'homo')                 |    20
+('vero', 'dico')               |    20
+('sicut', 'habeo')             |    20
+('non', 'sermo')               |    20
+('homo', 'trado')              |    20
+('dominus', 'sicut')           |    20
+('pater', 'venio')             |    20
+('video', 'ecce')              |    20
+('dico', 'quam')               |    20
+('quaero', 'autem')            |    20
+('at', 'respondeo')            |    20
+('frater', 'dico')             |    20
+('impleo', 'dico')             |    20
+('scio', 'iesus')              |    20
+('dico', 'simon')              |    20
+('non', 'regnum')              |    20
+('sto', 'non')                 |    20
+('petrus', 'iohannes')         |    20
+('do', 'iesus')                |    20
+('video', 'pater')             |    20
+('autem', 'magis')             |    20
+('princeps', 'senex')          |    20
+('veritas', 'non')             |    20
+('sicut', 'deus')              |    20
+('non', 'itaque')              |    20
+('venio', 'multus')            |    20
+('summus', 'sacerdos')         |    20
+('enim', 'scio')               |    20
+('enim', 'quam')               |    20
+('vir', 'non')                 |    20
+('deus', 'verbum')             |    20
+('vir', 'autem')               |    20
+('magnus', 'multus')           |    20
+('non', 'potestas')            |    20
+('non', 'corpus')              |    20
+('opus', 'non')                |    20
+('caro', 'spiritus')           |    20
+('enim', 'credo')              |    20
+('notus', 'facio')             |    20
+('non', 'causa')               |    20
+('non', 'caesar')              |    20
+('paulus', 'autem')            |    20
+('volo', 'ut')                 |    20
+('autem', 'res')               |    20
+('lex', 'enim')                |    20
+('christus', 'frater')         |    20
+('res', 'dico')                |    19
+('panis', 'do')                |    19
+('habeo', 'accipio')           |    19
+('facio', 'ago')               |    19
+('vir', 'frater')              |    19
+('res', 'ita')                 |    19
+('dico', 'morior')             |    19
+('dies', 'do')                 |    19
+('venio', 'scio')              |    19
+('sedeo', 'thronus')           |    19
+('magnus', 'ne')               |    19
+('terra', 'ne')                |    19
+('clamo', 'magnus')            |    19
+('dico', 'terra')              |    19
+('terra', 'mare')              |    19
+('habeo', 'mitto')             |    19
+('sto', 'video')               |    19
+('deus', 'saeculum')           |    19
+('templum', 'dico')            |    19
+('civitas', 'magnus')          |    19
+('dico', 'adhuc')              |    19
+('loquor', 'deus')             |    19
+('possum', 'homo')             |    19
+('possum', 'ago')              |    19
+('venio', 'domus')             |    19
+('animus', 'res')              |    19
+('res', 'magis')               |    19
+('facio', 'scribo')            |    19
+('consilium', 'capio')         |    19
+('homo', 'multus')             |    19
+('ne', 'magnus')               |    19
+('signum', 'do')               |    19
+
+============================================================
+TOP TRIGRAMS (3-Word Phrases) by FREQUENCY
+============================================================
+('dominus', 'iesus', 'christus')              |    58
+('respondeo', 'iesus', 'dico')                |    29
+('habeo', 'auris', 'audio')                   |    22
+('pater', 'dominus', 'iesus')                 |    17
+('clamo', 'vox', 'magnus')                    |    16
+('autem', 'iesus', 'dico')                    |    16
+('amen', 'dico', 'non')                       |    16
+('deus', 'pater', 'dominus')                  |    16
+('quemadmodum', 'ad', 'modum')                |    16
+('dico', 'ergo', 'iesus')                     |    14
+('vox', 'magnus', 'dico')                     |    13
+('nomen', 'dominus', 'iesus')                 |    13
+('auris', 'audio', 'spiritus')                |    12
+('audio', 'spiritus', 'dico')                 |    12
+('spiritus', 'dico', 'ecclesia')              |    12
+('princeps', 'sacerdos', 'scriba')            |    11
+('respondeo', 'iesus', 'aio')                 |    11
+('iesus', 'autem', 'dico')                    |    11
+('filius', 'homo', 'trado')                   |    11
+('gratia', 'dominus', 'iesus')                |    11
+('gratia', 'ago', 'deus')                     |    11
+('pax', 'deus', 'pater')                      |    10
+('respondeo', 'autem', 'iesus')               |     9
+('at', 'respondeo', 'dico')                   |     9
+('autem', 'dico', 'non')                      |     9
+('princeps', 'sacerdos', 'senex')             |     9
+('facio', 'autem', 'dies')                    |     9
+('gratia', 'pax', 'deus')                     |     9
+('angelus', 'tuba', 'cano')                   |     8
+('audio', 'vox', 'magnus')                    |     8
+('dico', 'filius', 'deus')                    |     8
+('autem', 'non', 'habeo')                     |     8
+('at', 'respondeo', 'aio')                    |     8
+('habeo', 'vita', 'aeternus')                 |     8
+('dico', 'potestas', 'facio')                 |     8
+('iesus', 'christus', 'dominus')              |     8
+('non', 'solum', 'autem')                     |     8
+('iesus', 'christus', 'gratia')               |     8
+('fero', 'non', 'possum')                     |     8
+('audio', 'vox', 'caelum')                    |     7
+('vox', 'caelum', 'dico')                     |     7
+('baptizo', 'spiritus', 'sanctus')            |     7
+('fletus', 'stridor', 'dens')                 |     7
+('fides', 'salvus', 'facio')                  |     7
+('video', 'filius', 'homo')                   |     7
+('filius', 'homo', 'venio')                   |     7
+('dico', 'ergo', 'iudaei')                    |     7
+('non', 'habeo', 'potestas')                  |     7
+('quamobrem', 'ob', 'rem')                    |     7
+('dico', 'ecclesia', 'vinco')                 |     6
+('habeo', 'caput', 'cornu')                   |     6
+('intro', 'regnum', 'caelum')                 |     6
+('vesper', 'autem', 'facio')                  |     6
+('iesus', 'autem', 'aio')                     |     6
+('vinum', 'novus', 'uter')                    |     6
+('regnum', 'caelum', 'homo')                  |     6
+('similis', 'regnum', 'caelum')               |     6
+('respondeo', 'autem', 'petrus')              |     6
+('honoro', 'pater', 'mater')                  |     6
+('christus', 'filius', 'deus')                |     6
+('tertius', 'dies', 'resurgo')                |     6
+('anima', 'salvus', 'facio')                  |     6
+('dico', 'iesus', 'filius')                   |     6
+('scriba', 'pharisaeus', 'hypocrita')         |     6
+('usque', 'hodiernus', 'dies')                |     6
+('dico', 'autem', 'dominus')                  |     6
+('dico', 'autem', 'et')                       |     6
+('non', 'possum', 'venio')                    |     6
+('dico', 'autem', 'iesus')                    |     6
+('dico', 'ergo', 'discipulus')                |     6
+('nomen', 'iesus', 'christus')                |     6
+('dico', 'vir', 'frater')                     |     6
+('res', 'publicus', 'causa')                  |     6
+('ecclesia', 'scribo', 'dico')                |     6
+('nomen', 'liber', 'vita')                    |     5
+('dico', 'vox', 'magnus')                     |     5
+('quintus', 'titurius', 'sabinus')            |     5
+('dico', 'esaias', 'propheta')                |     5
+('sequor', 'turba', 'multus')                 |     5
+('facio', 'non', 'possum')                    |     5
+('facio', 'consummo', 'iesus')                |     5
+('ibi', 'fletus', 'stridor')                  |     5
+('dico', 'spiritus', 'sanctus')               |     5
+('ecce', 'mater', 'frater')                   |     5
+('accedo', 'discipulus', 'dico')              |     5
+('non', 'video', 'audio')                     |     5
+('video', 'audio', 'non')                     |     5
+('dico', 'iohannes', 'baptista')              |     5
+('salvus', 'facio', 'perdo')                  |     5
+('petrus', 'iacob', 'iohannes')               |     5
+('homo', 'trado', 'manus')                    |     5
+('venio', 'autem', 'et')                      |     5
+('benedictus', 'venio', 'nomen')              |     5
+('venio', 'nomen', 'dominus')                 |     5
+('autem', 'princeps', 'sacerdos')             |     5
+('autem', 'iesus', 'aio')                     |     5
+('iesus', 'amen', 'dico')                     |     5
+('abraham', 'deus', 'isaac')                  |     5
+('isaac', 'deus', 'iacob')                    |     5
+('dico', 'enim', 'non')                       |     5
+('vae', 'scriba', 'pharisaeus')               |     5
+('dico', 'autem', 'non')                      |     5
+('princeps', 'autem', 'sacerdos')             |     5
+('dico', 'rex', 'iudaei')                     |     5
+('dico', 'iesus', 'nazarenus')                |     5
+('tollo', 'grabattus', 'ambulo')              |     5
+('panis', 'gratia', 'ago')                    |     5
+('sacerdos', 'scriba', 'senex')               |     5
+('repleo', 'spiritus', 'sanctus')             |     5
+('accipio', 'spiritus', 'sanctus')            |     5
+('dico', 'non', 'possum')                     |     5
+('dominus', 'autem', 'dico')                  |     5
+('simon', 'cognomino', 'petrus')              |     5
+('solum', 'autem', 'et')                      |     5
+('deus', 'christus', 'iesus')                 |     5
+('christus', 'iesus', 'dominus')              |     5
+('sicut', 'et', 'christus')                   |     5
+('rogo', 'autem', 'frater')                   |     5
+('dominus', 'deus', 'omnipotens')             |     5
+('res', 'publicus', 'non')                    |     5
+('titus', 'labienus', 'legatus')              |     5
+('legatus', 'caesar', 'mitto')                |     5
+('caesar', 'certus', 'facio')                 |     5
+('ne', 'populus', 'romanus')                  |     5
+('imperium', 'populus', 'romanus')            |     4
+('magnus', 'res', 'publicus')                 |     4
+('fiala', 'aureus', 'plenus')                 |     4
+('verbum', 'deus', 'testimonium')             |     4
+('caelum', 'cado', 'terra')                   |     4
+('video', 'angelus', 'sto')                   |     4
+('video', 'audio', 'vox')                     |     4
+('volo', 'medius', 'caelum')                  |     4
+('sto', 'mare', 'terra')                      |     4
+('vox', 'magnus', 'caelum')                   |     4
+('magnus', 'caelum', 'dico')                  |     4
+('anima', 'usque', 'mors')                    |     4
+('vox', 'magnus', 'templum')                  |     4
+('audio', 'quasi', 'vox')                     |     4
+('descendo', 'caelum', 'deus')                |     4
+('affero', 'gloria', 'honor')                 |     4
+('verbum', 'prophetia', 'liber')              |     4
+('ample', 'passus', 'absum')                  |     4
+('video', 'res', 'publicus')                  |     4
+('res', 'publicus', 'facio')                  |     4
+('ecce', 'angelus', 'dominus')                |     4
+('filius', 'voco', 'nomen')                   |     4
+('voco', 'nomen', 'iesus')                    |     4
+('accipio', 'puer', 'mater')                  |     4
+('enim', 'regnum', 'caelum')                  |     4
+('esaias', 'propheta', 'dico')                |     4
+('vox', 'clamo', 'desertum')                  |     4
+('via', 'dominus', 'rectus')                  |     4
+('iacob', 'zebedaeus', 'iohannes')            |     4
+('zebedaeus', 'iohannes', 'frater')           |     4
+('praedico', 'evangelium', 'regnum')          |     4
+('festuca', 'oculus', 'frater')               |     4
+('quaero', 'invenio', 'pulso')                |     4
+('invenio', 'pulso', 'aperio')                |     4
+('dico', 'dominus', 'volo')                   |     4
+('video', 'autem', 'iesus')                   |     4
+('homo', 'non', 'habeo')                      |     4
+('clamo', 'dico', 'filius')                   |     4
+('video', 'autem', 'turba')                   |     4
+('venio', 'autem', 'dies')                    |     4
+('iesus', 'dico', 'video')                    |     4
+('venio', 'filius', 'homo')                   |     4
+('filius', 'homo', 'non')                     |     4
+('iohannes', 'baptista', 'autem')             |     4
+('manduco', 'ne', 'bibo')                     |     4
+('non', 'ago', 'paenitentia')                 |     4
+('spiritus', 'sanctus', 'non')                |     4
+('frater', 'soror', 'mater')                  |     4
+('enim', 'habeo', 'do')                       |     4
+('audio', 'non', 'intellego')                 |     4
+('semino', 'audio', 'verbum')                 |     4
+('autem', 'petrus', 'dico')                   |     4
+('autem', 'respondeo', 'aio')                 |     4
+('dico', 'honoro', 'pater')                   |     4
+('gratia', 'ago', 'frango')                   |     4
+('at', 'cogito', 'dico')                      |     4
+('panis', 'non', 'habeo')                     |     4
+('simon', 'petrus', 'dico')                   |     4
+('dico', 'christus', 'filius')                |     4
+('occido', 'tertius', 'dies')                 |     4
+('non', 'gusto', 'mors')                      |     4
+('et', 'filius', 'homo')                      |     4
+('dico', 'quare', 'non')                      |     4
+('trado', 'manus', 'homo')                    |     4
+('homo', 'pater', 'mater')                    |     4
+('dico', 'iesus', 'autem')                    |     4
+('autem', 'dico', 'iesus')                    |     4
+('aio', 'amen', 'dico')                       |     4
+('sacerdos', 'senex', 'populus')              |     4
+('non', 'credo', 'autem')                     |     4
+('lapis', 'reprobo', 'aedifico')              |     4
+('reprobo', 'aedifico', 'facio')              |     4
+('aedifico', 'facio', 'caput')                |     4
+('facio', 'caput', 'angulus')                 |     4
+('interrogo', 'dico', 'magister')             |     4
+('dominus', 'sedeo', 'dexter')                |     4
