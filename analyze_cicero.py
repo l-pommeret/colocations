@@ -118,82 +118,39 @@ def analyze_cicero_collocations():
         return
 
     # Count
-    lemma_counts = collections.Counter(all_lemmas)
-    pair_counts = collections.Counter()
-    trigram_counts = collections.Counter()
+    # Analyze Pairs with VARYING WINDOW SIZES (3, 4, 5)
+    windows_to_test = [3, 4, 5]
     
-    window_size = 10 # Increased to capture long-distance hyperbaton
-    total_pairs = 0
-    
-    for i in range(len(all_lemmas)):
-        current_word = all_lemmas[i]
-        end_window = min(i + window_size, len(all_lemmas))
-        for j in range(i + 1, end_window):
-            next_word = all_lemmas[j]
-            if current_word == next_word: continue
-            
-            # Normalize pair order (A, B) == (B, A)
-            # This captures co-occurence regardless of word order
-            pair = tuple(sorted((current_word, next_word)))
-            
-            pair_counts[pair] += 1
-            total_pairs += 1
-
-    for i in range(len(all_lemmas) - 2):
-        w1, w2, w3 = all_lemmas[i], all_lemmas[i+1], all_lemmas[i+2]
-        if w1 != w2 and w2 != w3 and w1 != w3:
-             trigram_counts[(w1, w2, w3)] += 1
-             
-    # PMI
-    min_occurrence = 3 # Lower threshold for smaller sub-corpus
-    pmi_scores = []
-    total_lemmas = len(all_lemmas)
-    
-    for pair, count in pair_counts.items():
-        if count < min_occurrence: continue
-        w1, w2 = pair
-        p_pair = count / total_pairs
-        p_w1 = lemma_counts[w1] / total_lemmas
-        p_w2 = lemma_counts[w2] / total_lemmas
-        try:
-             pmi = math.log2(p_pair / (p_w1 * p_w2))
-        except ValueError: pmi = 0
-        pmi_scores.append((pair, pmi, count))
-
-    pmi_scores.sort(key=lambda x: x[1], reverse=True)
-    
-    # Output 1: PMI
-    print("Writing PMI results to collocations_cicero_pmi.txt...")
-    with open('collocations_cicero_pmi.txt', 'w', encoding='utf-8') as f:
-        f.write("="*60 + "\n")
-        f.write("CICERO: TOP COLLOCATIONS by PMI (Inseparability)\n")
-        f.write("="*60 + "\n\n")
-        f.write(f"{'Collocation':<30} | {'PMI':<10} | {'Count':<5}\n")
-        f.write("-" * 60 + "\n")
-        for pair, pmi, count in pmi_scores[:5000]:
-            f.write(f"{str(pair):<30} | {pmi:>10.2f} | {count:>5}\n")
-
-    # Output 2: Frequency
-    print("Writing Frequency results to collocations_cicero_freq.txt...")
-    with open('collocations_cicero_freq.txt', 'w', encoding='utf-8') as f:
-        f.write("="*60 + "\n")
-        f.write("CICERO: TOP PAIRS by FREQUENCY (Raw Count)\n")
-        f.write("="*60 + "\n\n")
-        f.write(f"{'Pair':<30} | {'Count':<5}\n")
-        f.write("-" * 60 + "\n")
-        for pair, count in sorted(pair_counts.items(), key=lambda x: x[1], reverse=True)[:5000]:
-             f.write(f"{str(pair):<30} | {count:>5}\n")
-
-    # Output 3: Trigrams
-    print("Writing Trigram results to collocations_cicero_trigrams.txt...")
-    with open('collocations_cicero_trigrams.txt', 'w', encoding='utf-8') as f:
-        f.write("="*60 + "\n")
-        f.write("CICERO: TOP TRIGRAMS by FREQUENCY\n")
-        f.write("="*60 + "\n\n")
-        f.write(f"{'Trigram':<45} | {'Count':<5}\n")
-        f.write("-" * 60 + "\n")
-        for trigram, count in sorted(trigram_counts.items(), key=lambda x: x[1], reverse=True)[:1000]:
-             f.write(f"{str(trigram):<45} | {count:>5}\n")
+    for w_size in windows_to_test:
+        print(f"Analyzing Pairs with Window Size = {w_size}...")
+        
+        pair_counts = collections.Counter()
+        total_pairs = 0
+        
+        for i in range(len(all_lemmas)):
+            current_word = all_lemmas[i]
+            end_window = min(i + w_size, len(all_lemmas))
+            for j in range(i + 1, end_window):
+                next_word = all_lemmas[j]
+                if current_word == next_word: continue
+                
+                # Normalize pair (A, B) == (B, A)
+                pair = tuple(sorted((current_word, next_word)))
+                pair_counts[pair] += 1
+                total_pairs += 1
+        
+        # Output for this window size
+        filename = f'collocations_cicero_pairs_window{w_size}.txt'
+        print(f"Writing results to {filename}...")
+        
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write("="*60 + "\n")
+            f.write(f"CICERO PAIRS - WINDOW SIZE {w_size}\n")
+            f.write("="*60 + "\n\n")
+            f.write(f"{'Pair':<30} | {'Count':<5}\n")
+            f.write("-" * 60 + "\n")
+            for pair, count in sorted(pair_counts.items(), key=lambda x: x[1], reverse=True)[:5000]:
+                 f.write(f"{str(pair):<30} | {count:>5}\n")
 
     print("Done.")
 
